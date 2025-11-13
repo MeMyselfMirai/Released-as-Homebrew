@@ -23,7 +23,25 @@
       "ability": "You start knowing 1 good player.",
       "flavor": "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
   },
-  "knight",
+  {
+      "id": "knight_rah",
+      "name": "Knignt",
+      "edition": "carousel",
+      "image": [
+          "https://botc.app/assets/knight_g-rWciCOvN.webp",
+          "https://botc.app/assets/knight_e-DErJZl0C.webp"
+      ],
+      "team": "townsfolk",
+      "firstNight": 64,
+      "firstNightReminder": "Point to the non-Demon players marked *KNOW*.",
+      "reminders": [
+          "Know",
+          "Know"
+      ],
+      "setup": false,
+      "ability": "You start knowing 2 players that are not the Demon.",
+      "flavor": "When a man lies, he murders some part of the world."
+  },
   "chef",
   "noble",
   "investigator",
