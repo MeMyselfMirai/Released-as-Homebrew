@@ -19,7 +19,6 @@ This will attempt to fully match the released versions of characters without any
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Steward
 * Knight
 * Chef
 * Noble
@@ -259,7 +258,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Clockmaker
 * Dreamer
 * Seamstress
-* Steward
+* **<span style="#3297F4;">[Steward](https://wiki.bloodontheclocktower.com/Steward)</span>**
 * Knight
 * Noble
 * Balloonist
@@ -378,6 +377,8 @@ The following is a full list of night order. This is so night order numbers can 
 * Leviathan
 
 ## Changelog
+### 0.2.0
+* Steward
 ### 0.1.1
 * Almanac link
 ### 0.1.0

@@ -5,7 +5,24 @@
     "name": "Released as Homebrew",
     "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
   },
-  "steward",
+  {
+      "id": "steward_rah",
+      "name": "Steward",
+      "edition": "carousel",
+      "image": [
+          "https://botc.app/assets/steward_g-ASO14Teu.webp",
+          "https://botc.app/assets/steward_e-BJUqXXmp.webp"
+      ],
+      "team": "townsfolk",
+      "firstNight": 63,
+      "firstNightReminder": "Point to the good player marked *KNOW*.",
+      "reminders": [
+          "Know"
+      ],
+      "setup": false,
+      "ability": "You start knowing 1 good player.",
+      "flavor": "How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"
+  },
   "knight",
   "chef",
   "noble",
