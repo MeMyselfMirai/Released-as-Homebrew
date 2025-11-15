@@ -57,7 +57,26 @@
       "ability": "You start knowing how many pairs of evil players there are.",
       "flavor": "This evening's reservations seem odd. Never before has Mrs. Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
   },
-  "noble",
+  {
+      "id": "noble_rah",
+      "name": "Noble",
+      "edition": "carousel",
+      "image": [
+          "https://botc.app/assets/noble_g-B0vksP8B.webp",
+          "https://botc.app/assets/noble_e-BFJBeujm.webp"
+      ],
+      "team": "townsfolk",
+      "firstNight": 64,
+      "firstNightReminder": "Point to all three players marked *KNOW*.",
+      "reminders": [
+          "Know",
+          "Know",
+          "Know"
+      ],
+      "setup": false,
+      "ability": "You start knowing 3 players, 1 and only 1 of which is evil.",
+      "flavor": "Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."
+  },
   "investigator",
   "washerwoman",
   "clockmaker",

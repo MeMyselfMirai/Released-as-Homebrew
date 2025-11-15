@@ -19,7 +19,6 @@ This will attempt to fully match the released versions of characters without any
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Noble
 * Investigator
 * Washerwoman
 * Clockmaker
@@ -258,7 +257,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Seamstress
 * 62 - **<span style="#3297F4;">[Steward](https://wiki.bloodontheclocktower.com/Steward)</span>**
 * 63 - **<span style="#3297F4;">[Knight](https://wiki.bloodontheclocktower.com/Knight)</span>**
-* Noble
+* 64 - **<span style="#3297F4;">[Noble](https://wiki.bloodontheclocktower.com/Noble)</span>**
 * Balloonist
 * Shugenja
 * Village Idiot
@@ -379,6 +378,8 @@ The following is a full list of night order. This is so night order numbers can 
 * Fabled/Traveller night order appears incorrect: https://discord.com/channels/1011236067560669234/1439394765933117450
 
 ## Changelog
+### 0.7.0
+* Noble
 ### 0.6.2
 * Traveller night order in base 3
 ### 0.6.1
