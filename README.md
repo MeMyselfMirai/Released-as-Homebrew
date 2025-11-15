@@ -19,7 +19,6 @@ This will attempt to fully match the released versions of characters without any
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Chef
 * Noble
 * Investigator
 * Washerwoman
@@ -249,7 +248,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Washerwoman
 * Librarian
 * Investigator
-* Chef
+* **<span style="#3297F4;">[Chef](https://wiki.bloodontheclocktower.com/Chef)</span>**
 * Empath
 * Fortune Teller
 * Butler
@@ -376,6 +375,8 @@ The following is a full list of night order. This is so night order numbers can 
 * Leviathan
 
 ## Changelog
+### 0.5.0
+* Chef
 ### 0.4.0
 * Downloaded online app files
 ### 0.3.1

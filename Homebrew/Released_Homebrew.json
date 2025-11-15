@@ -42,7 +42,21 @@
       "ability": "You start knowing 2 players that are not the Demon.",
       "flavor": "When a man lies, he murders some part of the world."
   },
-  "chef",
+  {
+      "id": "chef_rah",
+      "name": "Chef",
+      "edition": "tb",
+      "image": [
+          "https://botc.app/assets/chef_g-C3a3cGeP.webp",
+          "https://botc.app/assets/chef_e-B3RO5GXN.webp"
+      ],
+      "team": "townsfolk",
+      "firstNight": 55,
+      "firstNightReminder": "Give a finger signal.",
+      "setup": false,
+      "ability": "You start knowing how many pairs of evil players there are.",
+      "flavor": "This evening's reservations seem odd. Never before has Mrs. Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."
+  },
   "noble",
   "investigator",
   "washerwoman",
