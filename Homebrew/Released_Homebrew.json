@@ -268,7 +268,26 @@
         "ability": "Each night, learn which player the Storyteller believes you should talk to most.",
         "flavor": "There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep."
     },
-    "sailor",
+    {
+        "id": "sailor_rah",
+        "name": "Sailor",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/sailor_g-MdYxQ8zf.webp",
+            "https://botc.app/assets/sailor_e-DfZBdaxk.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 25,
+        "firstNightReminder": "The Sailor chooses a living player. :reminder:",
+        "otherNight": 12,
+        "otherNightReminder": "The Sailor chooses a living player. :reminder:",
+        "reminders": [
+            "Drunk"
+        ],
+        "setup": false,
+        "ability": "Each night, choose an alive player: either you or they are drunk until dusk. You can't die.",
+        "flavor": "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
+    },
     "balloonist",
     "general",
     "preacher",

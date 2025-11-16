@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Sailor
 * Balloonist
 * General
 * Preacher
@@ -209,7 +208,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Lunatic
 * Summoner
 * King
-* Sailor
+* 25 - $${\color{deepskyblue}Sailor}$$
 * Marionette
 * Engineer
 * Preacher
@@ -278,7 +277,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Bone Collector
 * Philosopher
 * Poppy Grower
-* Sailor
+* 12 - $${\color{deepskyblue}Sailor}$$
 * Engineer
 * Preacher
 * Xaan
@@ -374,6 +373,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "pixie": Ability gaining reminder tokens do not show the seat on the night order.
 
 ## Changelog
+### 0.21.0
+* Sailor
 ### 0.20.1
 * Jinx documentation
 ### 0.20.0
