@@ -380,6 +380,8 @@ The following is a full list of night order. This is so night order numbers can 
 * JSON Schema order does not match app data or documentation.
 
 ## Changelog
+### 0.9.1
+* JSON spacing
 ### 0.9.0
 * Drunk
 ### 0.8.3
