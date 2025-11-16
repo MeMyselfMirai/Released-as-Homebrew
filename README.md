@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Balloonist
 * General
 * Preacher
 * Chambermaid
@@ -249,7 +248,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 62 - $${\color{deepskyblue}Steward}$$
 * 63 - $${\color{deepskyblue}Knight}$$
 * 64 - $${\color{deepskyblue}Noble}$$
-* Balloonist
+* 65 - $${\color{deepskyblue}Balloonist}$$
 * 66 - $${\color{deepskyblue}Shugenja}$$
 * Village Idiot
 * 68 - $${\color{deepskyblue}Bounty Hunter}$$
@@ -350,7 +349,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Oracle
 * Seamstress
 * Juggler
-* Balloonist
+* 84 - $${\color{deepskyblue}Balloonist}$$
 * Village Idiot
 * King
 * 87 - $${\color{deepskyblue}Bounty Hunter}$$
@@ -375,6 +374,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.24.0
+* Balloonist
 ### 0.23.3
 * Documentation grammer correction
 ### 0.23.2

@@ -288,7 +288,26 @@
         "ability": "Each night, choose an alive player: either you or they are drunk until dusk. You can't die.",
         "flavor": "I'll drink any one of yer under the table! You! The chatterbox! Reckon you can take me? No? Howza 'bout you, Grandma? You ever tried Old McKillys Extra Spiced Rum before? Guaranteed to put hairs on yer chest! Step aboard, aye!"
     },
-    "balloonist",
+    {
+        "id": "balloonist_rah",
+        "name": "Balloonist",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/balloonist_g-Dlfqy_E5.webp",
+            "https://botc.app/assets/balloonist_e-D2ByQ9TA.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 65,
+        "firstNightReminder": "Show any player. :reminder:",
+        "otherNight": 84,
+        "otherNightReminder": "Show a player with a different character type to previously. :reminder:",
+        "reminders": [
+            "Know"
+        ],
+        "setup": true,
+        "ability": "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]",
+        "flavor": "More heat! Higher! Higher! Più alto! Ahhh... it is so beautiful from up here, don't you agree? Can you see the children fishing by the river, under the willow? Can you see the  glint of the sun on the circus tent-poles? What's this? An old man, alone, passed out in the vineyard? Less heat! Lower! Lower! Vai più in basso!"
+    },
     "general",
     "preacher",
     "chambermaid",
