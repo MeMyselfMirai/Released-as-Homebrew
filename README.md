@@ -19,7 +19,6 @@ This will attempt to fully match the released versions of characters without any
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Shugenja
 * Pixie
 * Bounty Hunter
 * Empath
@@ -253,7 +252,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 63 - $${\color{deepskyblue}Knight}$$
 * 64 - $${\color{deepskyblue}Noble}$$
 * Balloonist
-* Shugenja
+* 66 - $${\color{deepskyblue}Shugenja}$$
 * Village Idiot
 * Bounty Hunter
 * Nightwatchman
@@ -375,6 +374,8 @@ The following is a full list of night order. This is so night order numbers can 
 * JSON Schema order does not match app data or documentation.
 
 ## Changelog
+### 0.15.0
+* Shugenja
 ### 0.14.0
 * Librarian
 ### 0.13.1
