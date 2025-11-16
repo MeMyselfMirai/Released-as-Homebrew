@@ -174,7 +174,6 @@ This will attempt to fully match the released versions of characters without any
 * Spirit of Ivory
 * Sentinel
 * Toymaker
-* Buddhist
 * Hell's Librarian
 * Angel
 * Deus Ex Fiasco
@@ -190,6 +189,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Dusk
 * Angel
 * Buddhist
+* 3 - $${\color{goldenrod}Buddhist}$$
 * Toymaker
 * Storm Catcher
 * Wraith
@@ -374,6 +374,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "pixie": Ability gaining reminder tokens do not show the seat on the night order.
 
 ## Changelog
+### 0.18.0
+* Buddhist
 ### 0.17.0
 * Bounty Hunter
 ### 0.16.0
