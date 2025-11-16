@@ -19,7 +19,6 @@ This will attempt to fully match the released versions of characters without any
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Librarian
 * Shugenja
 * Pixie
 * Bounty Hunter
@@ -240,7 +239,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Damsel
 * Amnesiac
 * 51 - $${\color{deepskyblue}Washerwoman}$$
-* Librarian
+* 52 - $${\color{deepskyblue}Librarian}$$
 * 53 - $${\color{deepskyblue}Investigator}$$
 * 54 - $${\color{deepskyblue}Chef}$$
 * Empath
@@ -376,6 +375,8 @@ The following is a full list of night order. This is so night order numbers can 
 * JSON Schema order does not match app data or documentation.
 
 ## Changelog
+### 0.14.0
+* Librarian
 ### 0.13.1
 * Clockmaker night order documentation
 ### 0.13.0

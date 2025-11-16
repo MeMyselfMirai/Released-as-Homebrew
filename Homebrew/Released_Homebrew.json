@@ -151,7 +151,25 @@
         "ability": "You start knowing a good player & their character. If the Demon kills them, you die too.",
         "flavor": "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
     },
-    "librarian",
+    {
+        "id": "librarian_rah",
+        "name": "Librarian",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/librarian_g-Bvwb7yEa.webp",
+            "https://botc.app/assets/librarian_e-DNYbXXNX.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 52,
+        "firstNightReminder": "Show the Outsider character token. Point to both the *OUTSIDER* and *WRONG* players.",
+        "reminders": [
+            "Outsider",
+            "Wrong"
+        ],
+        "setup": false,
+        "ability": "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)",
+        "flavor": "Certainly madam, under normal circumstances, you may borrow the Codex Malificarium from the library vaults. However, you do not seem to be a member."
+    },
     "shugenja",
     "pixie",
     "bountyhunter",
