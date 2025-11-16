@@ -280,6 +280,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Toymaker
 * Wraith
 * Barista
+* Cacklejack
 * Bureaucrat
 * Thief
 * Harlot
@@ -376,8 +377,11 @@ The following is a full list of night order. This is so night order numbers can 
 # Open Online app bugs that interact with these examples
 * Off-Script Travellers don't appear in the night order: https://discord.com/channels/1011236067560669234/1439394043674234944
 * Fabled/Traveller night order appears incorrect: https://discord.com/channels/1011236067560669234/1439394765933117450
+* Cacklejack is not implemented.
 
 ## Changelog
+### 0.8.0
+* Cacklejack
 ### 0.7.0
 * Noble
 ### 0.6.2
