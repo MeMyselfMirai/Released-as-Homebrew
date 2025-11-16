@@ -19,7 +19,6 @@ This will attempt to fully match the released versions of characters without any
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Pixie
 * Bounty Hunter
 * Empath
 * High Priestess
@@ -233,7 +232,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Harpy
 * Mezepheles
 * Pukka
-* Pixie
+* 47 - $${\color{deepskyblue}Pixie}$$
 * Huntsman
 * Damsel
 * Amnesiac
@@ -372,8 +371,12 @@ The following is a full list of night order. This is so night order numbers can 
 * Fabled/Traveller night order appears incorrect: https://discord.com/channels/1011236067560669234/1439394765933117450
 * Cacklejack is not implemented.
 * JSON Schema order does not match app data or documentation.
+* Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters.
+    * "pixie": Ability gaining reminder tokens do not show the seat on the night order.
 
 ## Changelog
+### 0.16.0
+* Pixie
 ### 0.15.0
 * Shugenja
 ### 0.14.0
