@@ -180,7 +180,7 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 A copy of the full character list and released scripts are included for reference; files downloaded directly from the online app are included as well.
 
 ## Old Versions
-A copy of older versions of characters are included for Grognards.
+A copy of older versions of characters are included for grognards.
 
 ## Night Order Reference
 The following is a full list of night order. This is so night order numbers can be recreated as best as possible without having to constantly reload the released characters with Travellers. Base 3 night orders no longer match; recreated Base 3 scripts are included for reference.
@@ -375,10 +375,12 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.23.3
+* Documentation grammer correction
 ### 0.23.2
 * Bounty Hunter grognard
 ### 0.23.1
-* Move Grognard folder
+* Move grognard folder
 ### 0.23.0
 * Gardener
 ### 0.22.1
