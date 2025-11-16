@@ -245,7 +245,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Washerwoman
 * Librarian
 * 53 - $${\color{deepskyblue}Investigator}$$
-* 44 - $${\color{deepskyblue}Chef}$$
+* 54 - $${\color{deepskyblue}Chef}$$
 * Empath
 * Fortune Teller
 * Butler
@@ -379,6 +379,8 @@ The following is a full list of night order. This is so night order numbers can 
 * JSON Schema order does not match app data or documentation.
 
 ## Changelog
+### 0.10.1
+* Chef night order documentation
 ### 0.10.0
 * Investigator
 ### 0.9.1
