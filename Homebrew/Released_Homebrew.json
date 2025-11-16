@@ -472,7 +472,25 @@
     "gnome",
     "bishop",
     "voudon",
-    "gardener",
+    {
+        "id": "gardener_rah",
+        "name": "Gardener",
+        "edition": "loric",
+        "image": [
+            "https://botc.app/assets/gardener-DXERv7Nr.webp"
+        ],
+        "team": "loric",
+        "setup": false,
+        "ability": "The Storyteller assigns 1 or more players' characters.",
+        "flavor": "When sophistry becomes stupidity and hypocrisy cruelty, retreat to the garden. The final love of old men is flowers and stones.",
+        "special": [
+            {
+                "name": "distribute-roles",
+                "type": "ability",
+                "time": "pregame"
+            }
+        ]
+    },
     "tor",
     {
         "id": "bootlegger_rah",

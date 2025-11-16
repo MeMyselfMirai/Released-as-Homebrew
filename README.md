@@ -160,7 +160,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * Gnome
 * Bishop
 * Voudon
-* Gardener
 * Tor
 * Storm Catcher
 * Big Wig
@@ -376,6 +375,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.23.0
+* Gardener
 ### 0.22.1
 * Documentation grammer correction
 ### 0.22.0
