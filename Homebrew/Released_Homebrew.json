@@ -130,7 +130,27 @@
         "ability": "You start knowing how many steps from the Demon to its nearest Minion.",
         "flavor": "Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."
     },
-    "grandmother",
+    {
+        "id": "grandmother_rah",
+        "name": "Grandmother",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/grandmother_g-CjEyeFLi.webp",
+            "https://botc.app/assets/grandmother_e-BLCIA5TL.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 58,
+        "firstNightReminder": "Point to the grandchild player & show their character token.",
+        "otherNight": 72,
+        "otherNightReminder": "If the grandchild was killed by the Demon, the Grandmother dies too. :reminder:",
+        "reminders": [
+            "Grandchild",
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "You start knowing a good player & their character. If the Demon kills them, you die too.",
+        "flavor": "Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"
+    },
     "librarian",
     "shugenja",
     "pixie",

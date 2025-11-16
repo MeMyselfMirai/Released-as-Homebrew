@@ -19,7 +19,6 @@ This will attempt to fully match the released versions of characters without any
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Grandmother
 * Librarian
 * Shugenja
 * Pixie
@@ -247,7 +246,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Empath
 * Fortune Teller
 * Butler
-* Grandmother
+* 58 - $${\color{deepskyblue}Grandmother}$$
 * Clockmaker
 * 59 - $${\color{deepskyblue}Clockmaker}$$
 * Dreamer
@@ -344,7 +343,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Farmer
 * Tinker
 * Moonchild
-* Grandmother
+* 72 - $${\color{deepskyblue}Grandmother}$$
 * Tor
 * Ravenkeeper
 * Empath
@@ -378,6 +377,8 @@ The following is a full list of night order. This is so night order numbers can 
 * JSON Schema order does not match app data or documentation.
 
 ## Changelog
+### 0.13.0
+* Grandmother
 ### 0.12.0
 * Clockmaker
 ### 0.11.0
