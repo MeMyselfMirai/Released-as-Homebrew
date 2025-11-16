@@ -6,12 +6,30 @@
         "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "hideTitle": true,
-        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman","librarian","investigator","chef_tb","empath","fortuneteller","butler","dawn"],
+        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman","librarian","investigator_tb","chef_tb","empath","fortuneteller","butler","dawn"],
         "otherNight": ["dusk","bureaucrat","thief","poisoner","monk","spy","scarletwoman","imp","ravenkeeper","undertaker","empath","fortuneteller","butler","dawn"]
     },
     "washerwoman",
-    "librarian",    
-    "investigator",
+    "librarian",
+    {
+        "id": "investigator_tb",
+        "name": "Investigator",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/investigator_g-DWSOiA6Q.webp",
+            "https://botc.app/assets/investigator_g-DWSOiA6Q.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 53,
+        "firstNightReminder": "Show the Minion character token. Point to both the *MINION* and *WRONG* players.",
+        "reminders": [
+            "Minion",
+            "Wrong"
+        ],
+        "setup": false,
+        "ability": "You start knowing that 1 of 2 players is a particular Minion.",
+        "flavor": "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
+    },
     {
         "id": "chef_tb",
         "name": "Chef",
