@@ -368,6 +368,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.30.1
+* Shorten long grognard character name
 ### 0.30.0
 * Mathematician
 ### 0.29.0
