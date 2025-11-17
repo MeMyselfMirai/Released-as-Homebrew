@@ -452,7 +452,23 @@
             }
         ]
     },
-    "king",
+    {
+        "id": "king_rah",
+        "name": "King",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/king_g-CEMQO7k3.webp",
+            "https://botc.app/assets/king_e-DuQcqpvF.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 24,
+        "firstNightReminder": "Wake the Demon. Show the *THIS PLAYER IS* token and the King token, then point to the King.",
+        "otherNight": 86,
+        "otherNightReminder": "If the dead equal or outnumber the living, show the character token of an alive player.",
+        "setup": false,
+        "ability": "Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows you are the King.",
+        "flavor": "Betwixt the unknown strains of mortal strife / And morbid night, sweet with mystery and woe / Lies unfettered joys of fate’s long and colored life / Who’s garden blooms with each painted Face to Show."
+    },
     "dreamer",
     "fortuneteller",
     "cultleader",

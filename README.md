@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* King
 * Dreamer
 * Fortune Teller
 * Cult Leader
@@ -201,7 +200,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Snitch
 * Lunatic
 * Summoner
-* King
+* 24 - $${\color{deepskyblue}King}$$
 * 25 - $${\color{deepskyblue}Sailor}$$
 * Marionette
 * Engineer
@@ -345,7 +344,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Juggler
 * 84 - $${\color{deepskyblue}Balloonist}$$
 * 85 - $${\color{deepskyblue}Village Idiot}$$
-* King
+* 86 - $${\color{deepskyblue}King}$$
 * 87 - $${\color{deepskyblue}Bounty Hunter}$$
 * Nightwatchman
 * Cult Leader
@@ -368,6 +367,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.31.0
+* King
 ### 0.30.1
 * Shorten long grognard character name
 ### 0.30.0
