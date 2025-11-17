@@ -358,6 +358,7 @@ The following is a full list of night order. This is so night order numbers can 
 # Open Online app bugs that interact with these examples
 * Off-Script Travellers don't appear in the night order: https://discord.com/channels/1011236067560669234/1439394043674234944
 * Fabled/Traveller night order appears incorrect: https://discord.com/channels/1011236067560669234/1439394765933117450
+* Character almanac links are not supported: https://discord.com/channels/1011236067560669234/1402062909374201936
 * Cacklejack is not implemented.
 * JSON Schema order does not match app data or documentation.
 * Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters.
@@ -365,6 +366,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.33.1
+* Online app bug documentation
 ### 0.33.0
 * Fortune Teller
 ### 0.32.0
