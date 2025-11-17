@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-DGQcUGSF.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
-        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher","snakecharmer_snv","eviltwin","witch","cerenovus","clockmaker_snv","dreamer","seamstress","mathematician","dawn"],
-        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer","flowergirl","towncrier","oracle","seamstress","juggler","mathematician","dawn"]
+        "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher","snakecharmer_snv","eviltwin","witch","cerenovus","clockmaker_snv","dreamer","seamstress","mathematician_snv","dawn"],
+        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer","flowergirl","towncrier","oracle","seamstress","juggler","mathematician_snv","dawn"]
     },
     {
         "id": "clockmaker_snv",
@@ -45,7 +45,48 @@
         "ability": "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned.",
         "flavor": "Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."
     },
-    "mathematician",
+    {
+        "id": "mathematician_snv",
+        "name": "Mathematician",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/mathematician_g-CYQ5a9XP.webp",
+            "https://botc.app/assets/mathematician_e-DOTUnrYp.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 76,
+        "firstNightReminder": "Give a finger signal.",
+        "otherNight": 95,
+        "otherNightReminder": "Give a finger signal.",
+        "reminders": [
+            "Abnormal",
+            "Abnormal",
+            "Abnormal",
+            "Abnormal",
+            "Abnormal"
+        ],
+        "setup": false,
+        "ability": "Each night, you learn how many players’ abilities worked abnormally (since dawn) due to another character's ability.",
+        "flavor": "Any consistent formal system x, within which a certain amount of elementary arithmetic can be carried out is incomplete; that is, there are statements of the language of x which can neither be proved nor disproved in x. Ergo, you are drunk.",
+        "jinxes": [
+            {
+                "id": "chambermaid",
+                "reason": "The Chambermaid can detect if the Mathematician will wake tonight."
+            },
+            {
+                "id": "drunk",
+                "reason": "The Mathematician might learn if the Drunk's ability yielded false info or failed to work properly."
+            },
+            {
+                "id": "lunatic",
+                "reason": "The Mathematician might learn if the Lunatic attacks a different player than the real Demon attacked."
+            },
+            {
+                "id": "marionette",
+                "reason": "The Mathematician might learn if the Marionette's ability yielded false info or failed to work properly."
+            }
+        ]
+    },
     "flowergirl",
     "towncrier",
     "oracle",

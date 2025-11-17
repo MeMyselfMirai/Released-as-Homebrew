@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Mathematician
 * King
 * Dreamer
 * Fortune Teller
@@ -254,7 +253,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 73 - $${\color{deepskyblue}High Priestess}$$
 * 74 - $${\color{deepskyblue}General}$$
 * 75 - $${\color{deepskyblue}Chambermaid}$$
-* Mathematician
+* 76 - $${\color{deepskyblue}Mathematician}$$
 * Dawn
 * Leviathan
 * Vizier
@@ -355,7 +354,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 92 - $${\color{deepskyblue}High Priestess}$$
 * 93 - $${\color{deepskyblue}General}$$
 * 94 - $${\color{deepskyblue}Chambermaid}$$
-* Mathematician
+* 95 - $${\color{deepskyblue}Mathematician}$$
 * Dawn
 * Leviathan
 
@@ -369,6 +368,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.30.0
+* Mathematician
 ### 0.29.0
 * Snake Charmer
 ### 0.28.0
