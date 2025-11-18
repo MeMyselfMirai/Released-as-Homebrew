@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Nightwatchman
 * Courtier
 * Seamstress
 * Philosopher
@@ -229,7 +228,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 66 - $${\color{deepskyblue}Shugenja}$$
 * 67 - $${\color{deepskyblue}Village Idiot}$$
 * 68 - $${\color{deepskyblue}Bounty Hunter}$$
-* Nightwatchman
+* 69 - $${\color{deepskyblue}Nightwatchman}$$
 * 70 - $${\color{deepskyblue}Cult Leader}$$
 * Spy
 * Ogre
@@ -330,7 +329,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 85 - $${\color{deepskyblue}Village Idiot}$$
 * 86 - $${\color{deepskyblue}King}$$
 * 87 - $${\color{deepskyblue}Bounty Hunter}$$
-* Nightwatchman
+* 88 - $${\color{deepskyblue}Nightwatchman}$$
 * 89 - $${\color{deepskyblue}Cult Leader}$$
 * Butler
 * Spy
@@ -352,6 +351,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.49.0
+* Nightwatchman
 ### 0.48.0
 * Engineer
 ### 0.47.0

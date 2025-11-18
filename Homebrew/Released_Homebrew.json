@@ -770,7 +770,26 @@
         "ability": "Once per game, at night, choose which Minions or which Demon is in play.",
         "flavor": "If it bends, great. If it breaks, well, it probably needed fixing anyway."
     },
-    "nightwatchman",
+    {
+        "id": "nightwatchman_rah",
+        "name": "Nightwatchman",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/nightwatchman_g-CaasqmRn.webp",
+            "https://botc.app/assets/nightwatchman_e-DcwB8vOD.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 69.5,
+        "firstNightReminder": "The Nightwatchman might choose a player :reminder: Put the Nightwatchman to sleep. Wake the target and show the *THIS PLAYER IS* and Nightwatchman tokens and point to the Nightwatchman.",
+        "otherNight": 88.5,
+        "otherNightReminder": "The Nightwatchman might choose a player :reminder: Put the Nightwatchman to sleep. Wake the target and show the *THIS PLAYER IS* and Nightwatchman tokens and point to the Nightwatchman.",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, at night, choose a player: they learn you are the Nightwatchman.",
+        "flavor": "The night is cold and lonely, but I have the moon, the stars, the crisp wind and the soft thud of leather boots on cobbled stone for company. Yonder, candlelight flickers behind a murky window..."
+    },
     "courtier",
     "seamstress",
     "philosopher",
