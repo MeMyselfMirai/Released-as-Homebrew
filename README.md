@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Exorcist
 * Lycanthrope
 * Gossip
 * Savant
@@ -282,7 +281,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Scarlet Woman
 * Summoner
 * Lunatic
-* Exorcist
+* 35 - $${\color{deepskyblue}Exorcist}$$
 * Lycanthrope
 * Princess
 * Legion
@@ -357,6 +356,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.43.0
+* Exorcist
 ### 0.42.0
 * Acrobat
 ### 0.41.0

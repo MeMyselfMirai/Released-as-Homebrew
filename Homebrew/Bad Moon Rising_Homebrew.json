@@ -6,7 +6,7 @@
         "background": "https://botc.app/assets/background5-C8rPTCyH.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
         "hideTitle": true,
-        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier","gambler_bmr","devilsadvocate","lunatic","exorcist","zombuul","pukka","shabaloth","po","assassin","godfather","professor","gossip","tinker","moonchild","grandmother_bmr","chambermaid_bmr","dawn"]
+        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier","gambler_bmr","devilsadvocate","lunatic","exorcist_bmr","zombuul","pukka","shabaloth","po","assassin","godfather","professor","gossip","tinker","moonchild","grandmother_bmr","chambermaid_bmr","dawn"]
     },
     {
         "id": "grandmother_bmr",
@@ -66,7 +66,24 @@
         "ability": "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability.",
         "flavor": "I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."
     },
-    "exorcist",
+    {
+        "id": "exorcist_bmr",
+        "name": "Exorcist",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/exorcist_g-CiIkE1hM.webp",
+            "https://botc.app/assets/exorcist_e-DoXc6R_z.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 35,
+        "otherNightReminder": "The Exorcist chooses a player. :reminder: Put the Exorcist to sleep. If the Exorcist chose the Demon: Wake the Demon. Show the *THIS CHARACTER SELECTED YOU* & Exorcist tokens. Point to the Exorcist.",
+        "reminders": [
+            "Chosen"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight.",
+        "flavor": "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
+    },
     {
         "id": "innkeeper_bmr",
         "name": "Innkeeper",
