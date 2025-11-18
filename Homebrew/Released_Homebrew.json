@@ -632,7 +632,24 @@
         "ability": "Each night*, choose a player (not yourself): they are safe from the Demon tonight.",
         "flavor": "'Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
     },
-    "gambler",
+    {
+        "id": "gambler_rah",
+        "name": "Gambler",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/gambler_g-BJg931OP.webp",
+            "https://botc.app/assets/gambler_e-Co0D5NyD.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 20,
+        "otherNightReminder": "The Gambler chooses a player & a character. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player & guess their character: if you guess wrong, you die.",
+        "flavor": "Heads, I win. Tails, you lose."
+    },
     "acrobat",
     "exorcist",
     "lycanthrope",
