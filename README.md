@@ -150,6 +150,7 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * Spirit of Ivory
 * Sentinel
 * Toymaker
+* Djinn
 * Hell's Librarian
 * Angel
 * Deus Ex Fiasco
@@ -355,6 +356,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.44.1
+* Script template Djinn documentation
 ### 0.44.0
 * Lycanthrope
 ### 0.43.0
