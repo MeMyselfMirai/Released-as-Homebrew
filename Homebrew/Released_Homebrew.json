@@ -523,7 +523,25 @@
         "ability": "Each night, you become the alignment of an alive neighbor. If all good players choose to join your cult, your team wins.",
         "flavor": "Thinking themselves wise, they became fools."
     },
-    "flowergirl",
+    {
+        "id": "flowergirl_rah",
+        "name": "Flowergirl",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/flowergirl_g-C3oZV2PZ.webp",
+            "https://botc.app/assets/flowergirl_e-DJcVSLWX.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 79,
+        "otherNightReminder": "Either nod or shake your head.",
+        "reminders": [
+            "Demon Voted",
+            "Demon Not Voted"
+        ],
+        "setup": false,
+        "ability": "Each night*, you learn if a Demon voted today.",
+        "flavor": "Yesterday's violets have withered and died, but today my poppies bloom."
+    },
     "towncrier",
     "oracle",
     "undertaker",
