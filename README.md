@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Engineer
 * Nightwatchman
 * Courtier
 * Seamstress
@@ -188,7 +187,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 24 - $${\color{deepskyblue}King}$$
 * 25 - $${\color{deepskyblue}Sailor}$$
 * Marionette
-* Engineer
+* 27 - $${\color{deepskyblue}Engineer}$$
 * 28 - $${\color{deepskyblue}Preacher}$$
 * Lil' Monsta
 * Lleech
@@ -256,7 +255,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Philosopher
 * Poppy Grower
 * 12 - $${\color{deepskyblue}Sailor}$$
-* Engineer
+* 13 - $${\color{deepskyblue}Engineer}$$
 * 14 - $${\color{deepskyblue}Preacher}$$
 * Xaan
 * Poisoner
@@ -353,6 +352,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.48.0
+* Engineer
 ### 0.47.0
 * Alsaahir
 ### 0.46.0
