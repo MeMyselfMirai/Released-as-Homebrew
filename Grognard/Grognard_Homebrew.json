@@ -94,6 +94,30 @@
         ]
     },
     {
+        "id": "lycanthrope_gah",
+        "name": "Lycanthrope (Classic)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lycanthrope_g-BGOyDOkb.webp",
+            "https://botc.app/assets/lycanthrope_e-n_edx2Mg.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 36,
+        "otherNightReminder": "The Lycanthrope chooses a player. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose an alive player: if good, they die, but they are the only player that can die tonight.",
+        "flavor": "Beneath the thin veneer of civilisation lies a howling madness.",
+        "jinxes": [
+            {
+                "id": "gambler",
+                "reason": "If the Lycanthrope is alive and the Gambler kills themself at night, no other players can die tonight."
+            }
+        ]
+    },
+    {
         "id": "acrobat_gah",
         "name": "Acrobat (Classic)",
         "edition": "carousel",

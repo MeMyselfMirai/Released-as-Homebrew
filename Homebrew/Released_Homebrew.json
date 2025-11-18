@@ -687,7 +687,25 @@
         "ability": "Each night*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight.",
         "flavor": "We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."
     },
-    "lycanthrope",
+    {
+        "id": "lycanthrope_rah",
+        "name": "Lycanthrope",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lycanthrope_g-BGOyDOkb.webp",
+            "https://botc.app/assets/lycanthrope_e-n_edx2Mg.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 36,
+        "otherNightReminder": "The Lycanthrope chooses a player. :reminder:",
+        "reminders": [
+            "Faux Paw",
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose an alive player. If good, they die & the Demon doesn’t kill tonight. One good player registers as evil.",
+        "flavor": "Beneath the thin veneer of civilisation lies a howling madness."
+    },
     "gossip",
     "savant",
     "alsaahir",
