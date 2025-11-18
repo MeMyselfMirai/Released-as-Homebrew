@@ -542,7 +542,25 @@
         "ability": "Each night*, you learn if a Demon voted today.",
         "flavor": "Yesterday's violets have withered and died, but today my poppies bloom."
     },
-    "towncrier",
+    {
+        "id": "towncrier_rah",
+        "name": "Town Crier",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/towncrier_g-D9dERfO2.webp",
+            "https://botc.app/assets/towncrier_e-BzUGp1JT.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 80,
+        "otherNightReminder": "Either nod or shake your head.",
+        "reminders": [
+            "Minions Not Nominated",
+            "Minion Nominated"
+        ],
+        "setup": false,
+        "ability": "Each night*, you learn if a Minion nominated today.",
+        "flavor": "Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"
+    },
     "oracle",
     "undertaker",
     "innkeeper",
