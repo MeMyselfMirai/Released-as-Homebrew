@@ -901,7 +901,22 @@
         "ability": "Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected.",
         "flavor": "The process is simple. Attach the hydraulic confabulator to the modified chi matrix amplifier, add 20 CCs of pseudodorafine, keep his Z levels above 20%, and your husband will be fine. Now, all we need is a lightning strike."
     },
-    "artist",
+    {
+        "id": "artist_rah",
+        "name": "Artist",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/artist_g-CyRrA7cN.webp",
+            "https://botc.app/assets/artist_e-CpwoIhpV.webp"
+        ],
+        "team": "townsfolk",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, during the day, privately ask the Storyteller any yes/no question.",
+        "flavor": "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
+    },
     "slayer",
     "fisherman",
     "princess",

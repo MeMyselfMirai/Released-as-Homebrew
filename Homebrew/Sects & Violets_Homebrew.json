@@ -218,7 +218,22 @@
             }
         ]
     },
-    "artist",
+    {
+        "id": "artist_snv",
+        "name": "Artist",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/artist_g-CyRrA7cN.webp",
+            "https://botc.app/assets/artist_e-CpwoIhpV.webp"
+        ],
+        "team": "townsfolk",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, during the day, privately ask the Storyteller any yes/no question.",
+        "flavor": "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
+    },
     "juggler",
     "sage",
     "mutant",
