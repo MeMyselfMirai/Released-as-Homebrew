@@ -160,7 +160,6 @@ The following is a full list of night order. This is so night order numbers can 
 ### First Night Order
 * Dusk
 * Angel
-* Buddhist
 * 3 - $${\color{goldenrod}Buddhist}$$
 * Toymaker
 * Storm Catcher
@@ -348,6 +347,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.52.1
+* Buddhist night order documentation
 ### 0.52.0
 * Philosopher
 ### 0.51.0
