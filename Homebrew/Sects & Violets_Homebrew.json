@@ -7,7 +7,7 @@
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
         "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin","witch","cerenovus","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
-        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler","mathematician_snv","dawn"]
+        "otherNight": ["dusk","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","barber","sweetheart","sage","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
     },
     {
         "id": "clockmaker_snv",
@@ -234,7 +234,28 @@
         "ability": "Once per game, during the day, privately ask the Storyteller any yes/no question.",
         "flavor": "Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."
     },
-    "juggler",
+    {
+        "id": "juggler_snv",
+        "name": "Juggler",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/juggler_g-CghN7Lp-.webp",
+            "https://botc.app/assets/juggler_e-BQQDYvGs.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 83,
+        "otherNightReminder": "Give a finger signal.",
+        "reminders": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+        ],
+        "setup": false,
+        "ability": "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct.",
+        "flavor": "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
+    },
     "sage",
     "mutant",
     "sweetheart",

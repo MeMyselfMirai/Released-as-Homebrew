@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Juggler
 * Soldier
 * Alchemist
 * Cannibal
@@ -316,7 +315,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 80 - $${\color{deepskyblue}Town Crier}$$
 * 81 - $${\color{deepskyblue}Town Crier}$$
 * 82 - $${\color{deepskyblue}Seamstress}$$
-* Juggler
+* 83 - $${\color{deepskyblue}Juggler}$$
 * 84 - $${\color{deepskyblue}Balloonist}$$
 * 85 - $${\color{deepskyblue}Village Idiot}$$
 * 86 - $${\color{deepskyblue}King}$$
@@ -343,6 +342,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.59.0
+* Juggler
 ### 0.58.0
 * Princess
 ### 0.57.0

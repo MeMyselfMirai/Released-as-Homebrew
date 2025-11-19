@@ -967,7 +967,28 @@
         "ability": "On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight.",
         "flavor": "Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."
     },
-    "juggler",
+    {
+        "id": "juggler_rah",
+        "name": "Juggler",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/juggler_g-CghN7Lp-.webp",
+            "https://botc.app/assets/juggler_e-BQQDYvGs.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 83,
+        "otherNightReminder": "Give a finger signal.",
+        "reminders": [
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct",
+            "Correct"
+        ],
+        "setup": false,
+        "ability": "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct.",
+        "flavor": "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
+    },
     "soldier",
     "alchemist",
     "cannibal",
