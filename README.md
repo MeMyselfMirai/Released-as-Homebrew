@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Cannibal
 * Amnesiac
 * Farmer
 * Minstrel
@@ -339,10 +338,12 @@ The following is a full list of night order. This is so night order numbers can 
     * "alchemist": Token replacement reminders do not change character alignment.
     * "alchemist": Token replacement reminders do not change character types for the purpose of Minion Info.
     * "alchemist": Token replacement reminders do not change character types for the purpose of Lil' Monsta choices.
-    * "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order.
-    * "bootlegger": Bootlegger rules do not appear.
+    * "cannibal", "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order.
+    * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.62.0
+* Cannibal
 ### 0.61.0
 * Alchemist
 ### 0.60.0
