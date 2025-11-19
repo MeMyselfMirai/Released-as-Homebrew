@@ -172,7 +172,19 @@
         "ability": "Once per game, during the day, publicly choose a player: if they are the Demon, they die.",
         "flavor": "Die."
     },
-    "soldier",
+    {
+        "id": "soldier_tb",
+        "name": "Soldier",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/soldier_g-Baq_oQFs.webp",
+            "https://botc.app/assets/soldier_e-CvaeglsK.webp"
+        ],
+        "team": "townsfolk",
+        "setup": false,
+        "ability": "You are safe from the Demon.",
+        "flavor": "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+    },
     "mayor",
     "butler",
     {

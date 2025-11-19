@@ -989,7 +989,19 @@
         "ability": "On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct.",
         "flavor": "For my next trick, as per request, I will need a flower, a bag of beans, a toy snake, a paintbrush, and a motorized gasoline-powered hedge trimming device. I warn you, this trick may be my last. Oh dear."
     },
-    "soldier",
+    {
+        "id": "soldier_rah",
+        "name": "Soldier",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/soldier_g-Baq_oQFs.webp",
+            "https://botc.app/assets/soldier_e-CvaeglsK.webp"
+        ],
+        "team": "townsfolk",
+        "setup": false,
+        "ability": "You are safe from the Demon.",
+        "flavor": "As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."
+    },
     "alchemist",
     "cannibal",
     "amnesiac",
