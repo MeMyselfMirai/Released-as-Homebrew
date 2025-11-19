@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Alchemist
 * Cannibal
 * Amnesiac
 * Farmer
@@ -164,7 +163,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Thief
 * Boffin
 * 14 - $${\color{deepskyblue}Philosopher}$$
-* Alchemist
+* 15 - $${\color{deepskyblue}Alchemist}$$
 * Poppy Grower
 * Yaggababble
 * Magician
@@ -337,10 +336,15 @@ The following is a full list of night order. This is so night order numbers can 
 * Cacklejack is not implemented.
 * JSON Schema order does not match app data or documentation.
 * Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters.
+    * "alchemist": Token replacement reminders do not change character alignment.
+    * "alchemist": Token replacement reminders do not change character types for the purpose of Minion Info.
+    * "alchemist": Token replacement reminders do not change character types for the purpose of Lil' Monsta choices.
     * "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order.
     * "bootlegger": Bootlegger rules do not appear.
 
 ## Changelog
+### 0.61.0
+* Alchemist
 ### 0.60.0
 * Soldier
 ### 0.59.0
