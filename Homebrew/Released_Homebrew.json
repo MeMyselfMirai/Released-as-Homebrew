@@ -1341,7 +1341,19 @@
         "ability": "Minions & Demons do not know each other. If you die, they learn who each other are that night.",
         "flavor": "In the hidden groves of the deep forest, the black poppy dwells. To see its revelry is to be enchanted. To smell its thick aroma is to be lost forever, a slave to the gods of light and dark."
     },
-    "pacifist",
+    {
+        "id": "pacifist_rah",
+        "name": "Pacifist RAH",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/pacifist_g-DAkM1DME.webp",
+            "https://botc.app/assets/pacifist_e-BDyZFmeQ.webp"
+        ],
+        "team": "townsfolk",
+        "setup": false,
+        "ability": "Executed good players might not die.",
+        "flavor": "Distrust all in whom the impulse to punish is powerful."
+    },
     "atheist",
     "hermit",
     "butler",
