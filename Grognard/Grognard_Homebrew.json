@@ -303,6 +303,43 @@
         ]
     },
     {
+        "id": "magician_gah",
+        "name": "Magician (Old Jinxes)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/magician_g-DXz3Ajt8.webp",
+            "https://botc.app/assets/magician_e-BMchX9vJ.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 18,
+        "firstNightReminder": "Include the Magician in the Minion and Demon Info steps.",
+        "setup": false,
+        "ability": "The Demon thinks you are a Minion. Minions think you are a Demon.",
+        "flavor": "1... 2... Abra... 3... 4... Cadabra... *poof!* And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!",
+        "jinxes": [
+            {
+                "id": "lilmonsta",
+                "reason": "Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta."
+            },
+            {
+                "id": "spy",
+                "reason": "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "vizier",
+                "reason": "If the Vizier and Magician are both in play, the Demon does not learn the Minions."
+            },
+            {
+                "id": "widow",
+                "reason": "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "wraith",
+                "reason": "After each execution, the living Magician may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
+            }
+        ]
+    },
+    {
         "id": "acrobat_gah",
         "name": "Acrobat (Classic)",
         "edition": "carousel",

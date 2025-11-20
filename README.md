@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Magician
 * Poppy Grower
 * Pacifist
 * Atheist
@@ -154,7 +153,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 15 - $${\color{deepskyblue}Alchemist}$$
 * Poppy Grower
 * Yaggababble
-* Magician
+* 18 - $${\color{deepskyblue}Magician}$$
 * Minion Info
 * Snitch
 * Lunatic
@@ -327,11 +326,15 @@ The following is a full list of night order. This is so night order numbers can 
     * "alchemist": Token replacement reminders do not change character alignment.
     * "alchemist": Token replacement reminders do not change character types for the purpose of Minion Info.
     * "alchemist": Token replacement reminders do not change character types for the purpose of Lil' Monsta choices.
+    * "magician": Character token does not appear in Minion Info.
+    * "magician": Character token does not appear in Demon Info.
     * "banshee": Raising more than one hand is not available.
     * "cannibal", "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order.
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.75.0
+* Magician
 ### 0.74.0
 * Virgin
 ### 0.73.0

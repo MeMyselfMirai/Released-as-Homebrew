@@ -1280,7 +1280,47 @@
         "ability": "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.",
         "flavor": "I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."
     },
-    "magician",
+    {
+        "id": "magician_rah",
+        "name": "Magician",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/magician_g-DXz3Ajt8.webp",
+            "https://botc.app/assets/magician_e-BMchX9vJ.webp"
+        ],
+        "team": "townsfolk",
+        "firstNight": 18,
+        "firstNightReminder": "Include the Magician in the Minion and Demon Info steps.",
+        "setup": false,
+        "ability": "The Demon thinks you are a Minion. Minions think you are a Demon.",
+        "flavor": "1... 2... Abra... 3... 4... Cadabra... *poof!* And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!",
+        "jinxes": [
+            {
+                "id": "legion",
+                "reason": "The Magician wakes with Legion and might register as evil. Legion knows if a Magician is in play, but not which player it is."
+            },
+            {
+                "id": "marionette",
+                "reason": "If the Magician is alive, the Demon doesn't know which neighbor is the Marionette."
+            },
+            {
+                "id": "spy",
+                "reason": "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "vizier",
+                "reason": "If the Vizier is in play, the Magician has no ability but is immune to the Vizier's ability."
+            },
+            {
+                "id": "widow",
+                "reason": "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed."
+            },
+            {
+                "id": "wraith",
+                "reason": "After each execution, the living Magician may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight."
+            }
+        ]
+    },
     "poppygrower",
     "pacifist",
     "atheist",
