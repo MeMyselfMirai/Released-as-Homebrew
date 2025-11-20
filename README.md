@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Hermit
 * Butler
 * Goon
 * Ogre
@@ -331,6 +330,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.79.0
+* Hermit
 ### 0.78.0
 * Atheist
 ### 0.77.0

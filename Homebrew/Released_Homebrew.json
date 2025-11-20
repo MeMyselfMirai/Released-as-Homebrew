@@ -1373,7 +1373,24 @@
             }
         ]
     },
-    "hermit",
+    {
+        "id": "hermit",
+        "name": "Hermit",
+        "team": "outsider",
+        "image": [
+            "https://botc.app/assets/hermit_g-BT8xmstw.webp",
+            "https://botc.app/assets/hermit_g-BT8xmstw.webp"
+        ],
+        "edition": "carousel",
+        "reminders": [
+            "1",
+            "2",
+            "3"
+        ],
+        "setup": true,
+        "ability": "You have all Outsider abilities. [-0 or -1 Outsider]",
+        "flavor": "In the lost and forgotten places of the earth, the soul’s light beckons."
+    },
     "butler",
     "goon",
     "ogre",
