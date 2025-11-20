@@ -7,7 +7,7 @@
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "hideTitle": true,
         "firstNight": ["dusk","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler","dawn"],
-        "otherNight": ["dusk","bureaucrat","thief","poisoner","monk_tb","spy","scarletwoman","imp","ravenkeeper","undertaker_tb","empath_tb","fortuneteller_tb","butler","dawn"]
+        "otherNight": ["dusk","bureaucrat","thief","poisoner","monk_tb","spy","scarletwoman","imp","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler","dawn"]
     },
     {
         "id": "washerwoman_tb",
@@ -154,7 +154,21 @@
         "ability": "Each night*, choose a player (not yourself): they are safe from the Demon tonight.",
         "flavor": "'Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."
     },
-    "ravenkeeper",
+    {
+        "id": "ravenkeeper_tb",
+        "name": "Ravenkeeper",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/ravenkeeper_g-Bg-yrUxj.webp",
+            "https://botc.app/assets/ravenkeeper_e-Yrx6NFvE.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 74,
+        "otherNightReminder": "If the Ravenkeeper died tonight, the Ravenkeeper chooses a player. Show that player's character token.",
+        "setup": false,
+        "ability": "If you die at night, you are woken to choose a player: you learn their character.",
+        "flavor": "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+    },
     "virgin",
     {
         "id": "slayer_tb",

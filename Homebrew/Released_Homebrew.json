@@ -1148,7 +1148,21 @@
         "ability": "When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow.",
         "flavor": "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
     },
-    "ravenkeeper",
+    {
+        "id": "ravenkeeper_rah",
+        "name": "Ravenkeeper",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/ravenkeeper_g-Bg-yrUxj.webp",
+            "https://botc.app/assets/ravenkeeper_e-Yrx6NFvE.webp"
+        ],
+        "team": "townsfolk",
+        "otherNight": 74,
+        "otherNightReminder": "If the Ravenkeeper died tonight, the Ravenkeeper chooses a player. Show that player's character token.",
+        "setup": false,
+        "ability": "If you die at night, you are woken to choose a player: you learn their character.",
+        "flavor": "My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"
+    },
     "sage",
     "choirboy",
     "banshee",
