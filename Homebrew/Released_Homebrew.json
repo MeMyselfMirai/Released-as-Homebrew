@@ -1354,7 +1354,25 @@
         "ability": "Executed good players might not die.",
         "flavor": "Distrust all in whom the impulse to punish is powerful."
     },
-    "atheist",
+    {
+        "id": "atheist_rah",
+        "name": "Atheist",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/atheist_g-CQOMSxIU.webp",
+            "https://botc.app/assets/atheist_e-CHiIPNXQ.webp"
+        ],
+        "team": "townsfolk",
+        "setup": true,
+        "ability": "The Storyteller can break the game rules, and if executed, good wins, even if you are dead. [No evil characters]",
+        "flavor": "Let us disperse with unnecessary conjecture and silly paranoia. There is a perfectly rational explanation for everything. Yes, a teacup may indeed be orbiting the planet, too small to see, but I shall drink my tea from the very real china in my very real hands.",
+        "special": [
+            {
+                "type": "selection",
+                "name": "bag-duplicate"
+            }
+        ]
+    },
     "hermit",
     "butler",
     "goon",

@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Atheist
 * Hermit
 * Butler
 * Goon
@@ -328,9 +327,12 @@ The following is a full list of night order. This is so night order numbers can 
     * "magician": Character token does not appear in Demon Info.
     * "banshee": Raising more than one hand is not available.
     * "cannibal", "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order.
+    * "atheist": Global duplicate characters is not available.
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.78.0
+* Atheist
 ### 0.77.0
 * Pacifist
 ### 0.76.0
