@@ -198,7 +198,23 @@
         "ability": "When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow.",
         "flavor": "And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."
     },
-    "tealady",
+    {
+        "id": "tealady_bmr",
+        "name": "Tea Lady",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/tealady_g-C6X-kuq2.webp",
+            "https://botc.app/assets/tealady_e-CZT3s07k.webp"
+        ],
+        "team": "townsfolk",
+        "reminders": [
+            "Cannot Die",
+            "Cannot Die"
+        ],
+        "setup": false,
+        "ability": "If both your alive neighbors are good, they can't die.",
+        "flavor": "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
+    },
     "pacifist",
     "fool",
     "tinker",

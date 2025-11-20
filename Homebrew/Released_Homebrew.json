@@ -1218,7 +1218,23 @@
             }
         ]
     },
-    "tealady",
+    {
+        "id": "tealady_rah",
+        "name": "Tea Lady",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/tealady_g-C6X-kuq2.webp",
+            "https://botc.app/assets/tealady_e-CZT3s07k.webp"
+        ],
+        "team": "townsfolk",
+        "reminders": [
+            "Cannot Die",
+            "Cannot Die"
+        ],
+        "setup": false,
+        "ability": "If both your alive neighbors are good, they can't die.",
+        "flavor": "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
+    },
     "mayor",
     "fool",
     "virgin",
