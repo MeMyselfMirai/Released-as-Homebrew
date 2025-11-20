@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Poppy Grower
 * Pacifist
 * Atheist
 * Hermit
@@ -151,7 +150,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Boffin
 * 14 - $${\color{deepskyblue}Philosopher}$$
 * 15 - $${\color{deepskyblue}Alchemist}$$
-* Poppy Grower
+* 16 - $${\color{deepskyblue}Poppy Grower}$$
 * Yaggababble
 * 18 - $${\color{deepskyblue}Magician}$$
 * Minion Info
@@ -228,7 +227,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Harlot
 * Bone Collector
 * 10 - $${\color{deepskyblue}Philosopher}$$
-* Poppy Grower
+* 11 - $${\color{deepskyblue}Poppy Grower}$$
 * 12 - $${\color{deepskyblue}Sailor}$$
 * 13 - $${\color{deepskyblue}Engineer}$$
 * 14 - $${\color{deepskyblue}Preacher}$$
@@ -333,6 +332,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.76.0
+* Poppy Grower
 ### 0.75.0
 * Magician
 ### 0.74.0
