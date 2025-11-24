@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Wizard
 * Widow
 * Xaan
 * Marionette
@@ -136,7 +135,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 32 - $${\color{darkred}Poisoner}$$
 * Widow
 * 34 - $${\color{deepskyblue}Courtier}$$
-* Wizard
+* 35 - $${\color{darkred}Wizard}$$
 * 36 - $${\color{deepskyblue}Snake Charmer}$$
 * 37 - $${\color{darkred}Godfather}$$
 * Organ Griner
@@ -202,7 +201,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 16 - $${\color{darkred}Poisoner}$$
 * 17 - $${\color{deepskyblue}Courtier}$$
 * 18 - $${\color{deepskyblue}Innkeeper}$$
-* Wizard
+* 19 - $${\color{darkred}Wizard}$$
 * 20 - $${\color{deepskyblue}Gambler}$$
 * 21 - $${\color{deepskyblue}Acrobat}$$
 * 22 - $${\color{deepskyblue}Snake Charmer}$$
@@ -300,6 +299,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.114.0
+* Wizard
 ### 0.113.0
 * Assassin
 ### 0.112.0
