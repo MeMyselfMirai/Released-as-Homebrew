@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Devil's Advocate
 * Spy
 * Harpy
 * Witch
@@ -149,7 +148,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 36 - $${\color{deepskyblue}Snake Charmer}$$
 * 37 - $${\color{darkred}Godfather}$$
 * Organ Griner
-* Devil's Advocate
+* 39 - $${\color{darkred}Devil's Advocate}$$
 * Evil Twin
 * Witch
 * Cerenovus
@@ -217,7 +216,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 22 - $${\color{deepskyblue}Snake Charmer}$$
 * 23 - $${\color{deepskyblue}Monk}$$
 * Organ Grinder
-* Devil's Advocate
+* 25 - $${\color{darkred}Devil's Advocate}$$
 * Witch
 * Cerenovus
 * Pit-Hag
@@ -309,6 +308,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.105.0
+* Devil's Advocate
 ### 0.104.0
 * Poisoner
 ### 0.103.0

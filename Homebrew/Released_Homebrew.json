@@ -1902,7 +1902,26 @@
         "ability": "Each night, choose a player: they are poisoned tonight and tomorrow day.",
         "flavor": "Add compound Alpha to compound Beta... NOT TOO MUCH!"
     },
-    "devilsadvocate",
+    {
+        "id": "devilsadvocate_rah",
+        "name": "Devil's Advocate",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/devilsadvocate_e-6olcm7Cx.webp",
+            "https://botc.app/assets/devilsadvocate_g-DeyJHzxG.webp"
+        ],
+        "team": "minion",
+        "firstNight": 39,
+        "firstNightReminder": "The Devil's Advocate chooses a living player. :reminder:",
+        "otherNight": 25,
+        "otherNightReminder": "The Devil's Advocate chooses a living player. :reminder:",
+        "reminders": [
+            "Survives Execution"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a living player (different to last night): if executed tomorrow, they don't die.",
+        "flavor": "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
+    },
     "spy",
     "harpy",
     "witch",

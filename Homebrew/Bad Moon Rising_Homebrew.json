@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-C8rPTCyH.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
         "hideTitle": true,
-        "firstNight": ["dusk", "angel", "buddhist", "toymaker", "stormcatcher", "bureaucrat", "thief", "apprentice", "barista", "minioninfo", "lunatic_bmr", "demoninfo", "sailor_bmr", "courtier_bmr", "godfather_bmr", "devilsadvocate", "pukka", "grandmother_bmr", "chambermaid_bmr", "dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate","lunatic_bmr","exorcist_bmr","zombuul","pukka","shabaloth","po","assassin","godfather_bmr","professor_bmr","gossip_bmr","tinker_bmr","moonchild_bmr","grandmother_bmr","tor","chambermaid_bmr","dawn"]
+        "firstNight": ["dusk", "angel", "buddhist", "toymaker", "stormcatcher", "bureaucrat", "thief", "apprentice", "barista", "minioninfo", "lunatic_bmr", "demoninfo", "sailor_bmr", "courtier_bmr", "godfather_bmr", "devilsadvocate_bmr", "pukka", "grandmother_bmr", "chambermaid_bmr", "dawn"],
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate_bmr","lunatic_bmr","exorcist_bmr","zombuul","pukka","shabaloth","po","assassin","godfather_bmr","professor_bmr","gossip_bmr","tinker_bmr","moonchild_bmr","grandmother_bmr","tor","chambermaid_bmr","dawn"]
     },
     {
         "id": "grandmother_bmr",
@@ -340,7 +340,26 @@
         "ability": "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]",
         "flavor": "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
     },
-    "devilsadvocate",
+    {
+        "id": "devilsadvocate_bmr",
+        "name": "Devil's Advocate",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/devilsadvocate_e-6olcm7Cx.webp",
+            "https://botc.app/assets/devilsadvocate_g-DeyJHzxG.webp"
+        ],
+        "team": "minion",
+        "firstNight": 39,
+        "firstNightReminder": "The Devil's Advocate chooses a living player. :reminder:",
+        "otherNight": 25,
+        "otherNightReminder": "The Devil's Advocate chooses a living player. :reminder:",
+        "reminders": [
+            "Survives Execution"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a living player (different to last night): if executed tomorrow, they don't die.",
+        "flavor": "My client, should the objection be overruled, pleads innocent by virtue of the prosecution's non-observance of statute 27.B - incorrect or misleading conjugation of a verb. The fact that nine of the jury died last night is simply prima facie, which is, as Wills vs Thule set precedent for, further reason to acquit."
+    },
     "assassin",
     "mastermind",
     "zombuul",
