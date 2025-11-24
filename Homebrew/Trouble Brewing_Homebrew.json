@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "hideTitle": true,
-        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner","spy","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","poisoner","monk_tb","spy","scarletwoman","imp","tor","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
+        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner_tb","spy","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"],
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","poisoner_tb","monk_tb","spy","scarletwoman","imp","tor","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
     },
     {
         "id": "washerwoman_tb",
@@ -315,7 +315,26 @@
         "ability": "If you die by execution, your team loses.",
         "flavor": "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
     },
-    "poisoner",
+    {
+        "id": "poisoner_tb",
+        "name": "Poisoner",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/poisoner_e-Usf7TcoY.webp",
+            "https://botc.app/assets/poisoner_g-DHNIHhxZ.webp"
+        ],
+        "team": "minion",
+        "firstNight": 32,
+        "firstNightReminder": "The Poisoner chooses a player. :reminder:",
+        "otherNight": 16,
+        "otherNightReminder": "The Poisoner chooses a player. :reminder:",
+        "reminders": [
+            "Poisoned"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player: they are poisoned tonight and tomorrow day.",
+        "flavor": "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+    },
     "spy",
     "scarletwoman",
     "baron",

@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Poisoner
 * Devil's Advocate
 * Spy
 * Harpy
@@ -143,7 +142,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Lil' Monsta
 * Lleech
 * Xaan
-* Poisoner
+* 32 - $${\color{darkred}Poisoner}$$
 * Widow
 * 34 - $${\color{deepskyblue}Courtier}$$
 * Wizard
@@ -209,7 +208,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 13 - $${\color{deepskyblue}Engineer}$$
 * 14 - $${\color{deepskyblue}Preacher}$$
 * Xaan
-* Poisoner
+* 16 - $${\color{darkred}Poisoner}$$
 * 17 - $${\color{deepskyblue}Courtier}$$
 * 18 - $${\color{deepskyblue}Innkeeper}$$
 * Wizard
@@ -310,6 +309,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.104.0
+* Poisoner
 ### 0.103.0
 * Godfather
 ### 0.102.0

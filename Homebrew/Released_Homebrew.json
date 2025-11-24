@@ -1882,7 +1882,26 @@
         "ability": "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]",
         "flavor": "Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."
     },
-    "poisoner",
+    {
+        "id": "poisoner_rah",
+        "name": "Poisoner",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/poisoner_e-Usf7TcoY.webp",
+            "https://botc.app/assets/poisoner_g-DHNIHhxZ.webp"
+        ],
+        "team": "minion",
+        "firstNight": 32,
+        "firstNightReminder": "The Poisoner chooses a player. :reminder:",
+        "otherNight": 16,
+        "otherNightReminder": "The Poisoner chooses a player. :reminder:",
+        "reminders": [
+            "Poisoned"
+        ],
+        "setup": false,
+        "ability": "Each night, choose a player: they are poisoned tonight and tomorrow day.",
+        "flavor": "Add compound Alpha to compound Beta... NOT TOO MUCH!"
+    },
     "devilsadvocate",
     "spy",
     "harpy",
