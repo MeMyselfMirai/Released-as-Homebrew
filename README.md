@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Harpy
 * Witch
 * Cerenovus
 * Fearmonger
@@ -152,7 +151,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Witch
 * Cerenovus
 * Fearmonger
-* Harpy
+* 44 - $${\color{darkred}Harpy}$$
 * 45 - $${\color{darkred}Mezepheles}$$
 * Pukka
 * 47 - $${\color{deepskyblue}Pixie}$$
@@ -220,7 +219,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Cerenovus
 * Pit-Hag
 * Fearmonger
-* Harpy
+* 30 - $${\color{darkred}Harpy}$$
 * 31 - $${\color{darkred}Mezepheles}$$
 * Scarlet Woman
 * Summoner
@@ -307,6 +306,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.107.0
+* Harpy
 ### 0.106.0
 * Spy
 ### 0.105.0
