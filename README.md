@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Summoner
 * Evil Twin
 * Goblin
 * Boomdandy
@@ -118,7 +117,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Minion Info
 * 20 - $${\color{deepskyblue}Snitch}$$
 * 21 - $${\color{deepskyblue}Lunatic}$$
-* Summoner
+* 22 - $${\color{darkred}Summoner}$$
 * Demon Info
 * 24 - $${\color{deepskyblue}King}$$
 * 25 - $${\color{deepskyblue}Sailor}$$
@@ -211,7 +210,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 30 - $${\color{darkred}Harpy}$$
 * 31 - $${\color{darkred}Mezepheles}$$
 * Scarlet Woman
-* Summoner
+* 33 - $${\color{deepskyblue}Summoner}$$
 * 34 - $${\color{deepskyblue}Lunatic}$$
 * 35 - $${\color{deepskyblue}Exorcist}$$
 * 36 - $${\color{deepskyblue}Lycanthrope}$$
@@ -295,6 +294,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.119.0
+* Summoner
 ### 0.118.0
 * Wraith
 ### 0.117.0

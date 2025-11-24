@@ -620,6 +620,162 @@
         ]
     },
     {
+        "id": "summoner_gah1",
+        "name": "Summoner (Old Jinxes)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/summoner_e-Ce5RiRwu.webp",
+            "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
+        ],
+        "team": "minion",
+        "firstNight": 22.5,
+        "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+        "otherNight": 33.5,
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "reminders": [
+            "Night 1",
+            "Night 2",
+            "Night 3"
+        ],
+        "setup": true,
+        "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+        "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness",
+        "jinxes": [
+            {
+                "id": "clockmaker",
+                "reason": "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "engineer",
+                "reason": "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+            },
+            {
+                "id": "hatter",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "kazali",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "legion",
+                "reason": "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "lordoftyphon",
+                "reason": "If the Summoner creates a Lord of Typhon, the Lord of Typhon must neighbor a Minion. The other neighbor becomes a not-in-play evil Minion."
+            },
+            {
+                "id": "marionette",
+                "reason": "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+            },
+            {
+                "id": "pithag",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "pukka",
+                "reason": "The Summoner may choose a player to become the Pukka on the 2nd night."
+            },
+            {
+                "id": "zombuul",
+                "reason": "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+            }
+        ]
+    },
+    {
+        "id": "summoner_gah2",
+        "name": "Summoner (Older Jinxes)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/summoner_e-Ce5RiRwu.webp",
+            "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
+        ],
+        "team": "minion",
+        "firstNight": 22.5,
+        "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
+        "otherNight": 33.5,
+        "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
+        "reminders": [
+            "Night 1",
+            "Night 2",
+            "Night 3"
+        ],
+        "setup": true,
+        "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+        "flavor": "Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness",
+        "jinxes": [
+            {
+                "id": "clockmaker",
+                "reason": "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "engineer",
+                "reason": "If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immediately."
+            },
+            {
+                "id": "hatter",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "kazali",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "legion",
+                "reason": "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "lordoftyphon",
+                "reason": "If the Summoner creates a Lord of Typhon, the Lord of Typhon must neighbor a Minion. The other neighbor becomes a not-in-play evil Minion."
+            },
+            {
+                "id": "marionette",
+                "reason": "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+            },
+            {
+                "id": "pithag",
+                "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player."
+            },
+            {
+                "id": "pukka",
+                "reason": "The Summoner may choose a player to become the Pukka on the 2nd night."
+            },
+            {
+                "id": "riot",
+                "reason": "If the Summoner creates Riot, all Minions also become Riot."
+            },
+            {
+                "id": "zombuul",
+                "reason": "If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once."
+            }
+        ]
+    },
+    {
         "id": "gardener_gah",
         "name": "Gardener (Classic)",
         "edition": "fabled",
