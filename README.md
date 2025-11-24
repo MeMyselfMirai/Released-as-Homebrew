@@ -322,6 +322,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.89.2
+* Downloaded online app file name
 ### 0.89.1
 * Recluse grognard character name
 ### 0.89.0
