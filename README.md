@@ -21,7 +21,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Damsel
 * Snitch
 * Heretic
 * Puzzlemaster
@@ -164,7 +163,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Pukka
 * 47 - $${\color{deepskyblue}Pixie}$$
 * 48 - $${\color{deepskyblue}Huntsman}$$
-* Damsel
+* 49 - $${\color{deepskyblue}Damsel}$$
 * 50 - $${\color{deepskyblue}Amnesiac}$$
 * 51 - $${\color{deepskyblue}Washerwoman}$$
 * 52 - $${\color{deepskyblue}Librarian}$$
@@ -264,7 +263,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 64 - $${\color{deepskyblue}Professor}$$
 * 65 - $${\color{deepskyblue}Choirboy}$$
 * 66 - $${\color{deepskyblue}Huntsman}$$
-* Damsel
+* 67 - $${\color{deepskyblue}Damsel}$$
 * 68 - $${\color{deepskyblue}Amnesiac}$$
 * 69 - $${\color{deepskyblue}Farmer}$$
 * 70 - $${\color{deepskyblue}Tinker}$$
@@ -314,6 +313,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.98.0
+* Damsel
 ### 0.97.0
 * Zealot
 ### 0.96.0

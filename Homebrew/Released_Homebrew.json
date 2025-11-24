@@ -1749,7 +1749,26 @@
         "ability": "If there are 5 or more players alive, you must vote for every nomination.",
         "flavor": "I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."
     },
-    "damsel",
+    {
+        "id": "damsel_rah",
+        "name": "Damsel",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/damsel_g-NwMWC09c.webp",
+            "https://botc.app/assets/damsel_e-fpsIFV1Z.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 49,
+        "firstNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token.",
+        "otherNight": 67,
+        "otherNightReminder": "If the Damsel was chosen by the Huntsman, show them the *YOU ARE* info token and their new character token.",
+        "reminders": [
+            "Guess Used"
+        ],
+        "setup": false,
+        "ability": "All Minions know a Damsel is in play. If a Minion publicly guesses you (once), your team loses.",
+        "flavor": "Don't touch the hair, honey."
+    },
     "snitch",
     "heretic",
     "puzzlemaster",
