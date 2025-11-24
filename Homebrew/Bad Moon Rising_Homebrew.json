@@ -6,7 +6,7 @@
         "background": "https://botc.app/assets/background5-C8rPTCyH.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
         "hideTitle": true,
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate","lunatic_bmr","exorcist_bmr","zombuul","pukka","shabaloth","po","assassin","godfather","professor_bmr","gossip_bmr","tinker","moonchild","grandmother_bmr","tor","chambermaid_bmr","dawn"]
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate","lunatic_bmr","exorcist_bmr","zombuul","pukka","shabaloth","po","assassin","godfather","professor_bmr","gossip_bmr","tinker_bmr","moonchild","grandmother_bmr","tor","chambermaid_bmr","dawn"]
     },
     {
         "id": "grandmother_bmr",
@@ -232,7 +232,24 @@
         "ability": "The 1st time you die, you don't.",
         "flavor": "...and the King said 'What?! I've never even owned a pair of rubber pantaloons, let alone a custard cannon!' Ho-ho! Jolly day!"
     },
-    "tinker",
+    {
+        "id": "tinker_bmr",
+        "name": "Tinker",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/tinker_g-CS4VFqeN.webp",
+            "https://botc.app/assets/tinker_e-dpPUDqmq.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 70,
+        "otherNightReminder": "The Tinker might die. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "You might die at any time.",
+        "flavor": "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
+    },
     "moonchild",
     {
         "id": "goon_bmr",

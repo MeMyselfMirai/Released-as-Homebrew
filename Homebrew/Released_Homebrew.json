@@ -1499,7 +1499,24 @@
             }
         ]
     },
-    "tinker",
+    {
+        "id": "tinker_rah",
+        "name": "Tinker",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/tinker_g-CS4VFqeN.webp",
+            "https://botc.app/assets/tinker_e-dpPUDqmq.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 70,
+        "otherNightReminder": "The Tinker might die. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "You might die at any time.",
+        "flavor": "I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."
+    },
     "recluse",
     "golem",
     "sweetheart",

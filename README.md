@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Tinker
 * Recluse
 * Golem
 * Sweetheart
@@ -280,7 +279,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Damsel
 * 68 - $${\color{deepskyblue}Amnesiac}$$
 * 69 - $${\color{deepskyblue}Amnesiac}$$
-* Tinker
+* 70 - $${\color{deepskyblue}Tinker}$$
 * Moonchild
 * 72 - $${\color{deepskyblue}Grandmother}$$
 * Tor
@@ -327,6 +326,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.85.0
+* Tinker
 ### 0.84.0
 * Lunatic
 ### 0.83.0
