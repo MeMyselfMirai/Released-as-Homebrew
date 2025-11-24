@@ -7,7 +7,7 @@
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
         "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin","witch","cerenovus","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","tor","barber","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
     },
     {
         "id": "clockmaker_snv",
@@ -290,7 +290,24 @@
         "ability": "When you die, 1 player is drunk from now on.",
         "flavor": "I will never forget her. Never."
     },
-    "barber",
+    {
+        "id": "barber_snv",
+        "name": "Barber",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/barber_g-CP7mk8b9.webp",
+            "https://botc.app/assets/barber_e-BJbMUslE.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 59,
+        "otherNightReminder": "If the Barber died today or tonight, show the Demon the *THIS CHARACTER SELECTED YOU* & Barber tokens. If the Demon chose 2 players, wake one at a time. Show the *YOU ARE* token & their new character token.",
+        "reminders": [
+            "Haircuts Tonight"
+        ],
+        "setup": false,
+        "ability": "If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters.",
+        "flavor": "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
+    },
     {
         "id": "klutz_snv",
         "name": "Klutz",

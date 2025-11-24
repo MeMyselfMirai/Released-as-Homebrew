@@ -1674,7 +1674,24 @@
         "ability": "If you die by execution, your team loses.",
         "flavor": "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
     },
-    "barber",
+    {
+        "id": "barber_rah",
+        "name": "Barber",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/barber_g-CP7mk8b9.webp",
+            "https://botc.app/assets/barber_e-BJbMUslE.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 59,
+        "otherNightReminder": "If the Barber died today or tonight, show the Demon the *THIS CHARACTER SELECTED YOU* & Barber tokens. If the Demon chose 2 players, wake one at a time. Show the *YOU ARE* token & their new character token.",
+        "reminders": [
+            "Haircuts Tonight"
+        ],
+        "setup": false,
+        "ability": "If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters.",
+        "flavor": "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
+    },
     "hatter",
     "mutant",
     "politician",
