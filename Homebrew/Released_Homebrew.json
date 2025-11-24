@@ -2088,7 +2088,19 @@
             }
         ]
     },
-    "psychopath",
+    {
+        "id": "psychopath_rah",
+        "name": "Psychopath",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/psychopath_e-CStA2Nbh.webp",
+            "https://botc.app/assets/psychopath_g-YqeVVosZ.webp"
+        ],
+        "team": "minion",
+        "setup": false,
+        "ability": "Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo.",
+        "flavor": "Surprise!"
+    },
     "assassin",
     "wizard",
     "widow",
