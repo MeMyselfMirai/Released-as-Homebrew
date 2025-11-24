@@ -550,6 +550,76 @@
         ]
     },
     {
+        "id": "marionette_gah",
+        "name": "Marionette (Old Jinxes)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/marionette_e-BVmqAITW.webp",
+            "https://botc.app/assets/marionette_g-XJqVphtg.webp"
+        ],
+        "team": "minion",
+        "firstNight": 26,
+        "firstNightReminder": "Wake the Demon. Point to the player marked *IS THE MARIONETTE* and show the *THIS PLAYER IS* token and the Marionette character token.",
+        "remindersGlobal": [
+            "Is The Marionette"
+        ],
+        "setup": true,
+        "ability": "You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]",
+        "flavor": "Words, words. They're all we have to go on.",
+        "special": [
+            {
+                "name": "bag-disabled",
+                "type": "selection"
+            },
+            {
+                "name": "replace-character",
+                "type": "reveal"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "alchemist",
+                "reason": "An Alchemist-Marionette has no Marionette ability & the Marionette is in play."
+            },
+            {
+                "id": "balloonist",
+                "reason": "If the Marionette thinks that they are the Balloonist, +1 Outsider might have been added."
+            },
+            {
+                "id": "damsel",
+                "reason": "The Marionette does not learn that a Damsel is in play."
+            },
+            {
+                "id": "huntsman",
+                "reason": "If the Marionette thinks that they are the Huntsman, the Damsel was added."
+            },
+            {
+                "id": "kazali",
+                "reason": "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+            },
+            {
+                "id": "lilmonsta",
+                "reason": "The Marionette neighbors a Minion, not the Demon. The Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing."
+            },
+            {
+                "id": "snitch",
+                "reason": "The Marionette does not learn 3 not in-play characters. The Demon learns an extra 3 instead."
+            },
+            {
+                "id": "summoner",
+                "reason": "The Marionette neighbors the Summoner. The Summoner knows who the Marionette is."
+            },
+            {
+                "id": "wraith",
+                "reason": "The Wraith does not wake with the Marionette."
+            }
+        ]
+    },
+    {
         "id": "gardener_gah",
         "name": "Gardener (Classic)",
         "edition": "fabled",

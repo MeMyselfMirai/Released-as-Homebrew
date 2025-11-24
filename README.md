@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Marionette
 * Wraith
 * Summoner
 * Evil Twin
@@ -124,7 +123,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Demon Info
 * 24 - $${\color{deepskyblue}King}$$
 * 25 - $${\color{deepskyblue}Sailor}$$
-* Marionette
+* 26 - $${\color{darkred}Marionette}$$
 * 27 - $${\color{deepskyblue}Engineer}$$
 * 28 - $${\color{deepskyblue}Preacher}$$
 * Lil' Monsta
@@ -286,7 +285,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Cacklejack is not implemented.
 * JSON Schema order does not match app data or documentation.
 * Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters.
-    * "alchemist": Token replacement reminders do not change character alignment.
+    * "alchemist" / "marionette": Token replacement reminders do not change character alignment.
     * "alchemist": Token replacement reminders do not change character types for the purpose of Minion Info.
     * "alchemist": Token replacement reminders do not change character types for the purpose of Lil' Monsta choices.
     * "magician": Character token does not appear in Minion Info.
@@ -297,6 +296,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.117.0
+* Marionette
 ### 0.116.0
 * Xaan
 ### 0.115.1
