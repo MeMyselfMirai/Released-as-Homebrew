@@ -1723,7 +1723,19 @@
         "ability": "If you are “mad” about being an Outsider, you might be executed.",
         "flavor": "I am not a freak! I am a human being! Have mercy!"
     },
-    "politician",
+    {
+        "id": "politician_rah",
+        "name": "Politician",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/politician_g-CXCSDrvE.webp",
+            "https://botc.app/assets/politician_e-CRiP_Thj.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "If you were the player most responsible for your team losing, you change alignment & win, even if dead.",
+        "flavor": "I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."
+    },
     "zealot",
     "damsel",
     "snitch",
