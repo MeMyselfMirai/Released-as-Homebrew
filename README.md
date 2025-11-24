@@ -11,11 +11,13 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 **3.48.0 - The app update from outer space**
 
 ## Git Expectations
-* Tags are SemVer with no message. Release descriptions match the changelog.
+* Update the README changelog and character lists for each commit.
+* Commit messages are [Conventional Commits](https://conventionalcommits.org/) all lowercase.
+* Tags are [SemVer](https://semver.org/) with no message.
+* Github release descriptions match the changelog.
 * Commits are required to be squashed and submitted via pull-request.
 * One character updated per pull-request, unless it is an app compatilibity update.
 * If the character appears on a released script, include the change on that script as well.
-* Update the README changelog and character lists.
 
 ### Character Testing
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
@@ -312,6 +314,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.99.1
+* Git expectations documentation
 ### 0.99.0
 * Snitch
 ### 0.98.0
