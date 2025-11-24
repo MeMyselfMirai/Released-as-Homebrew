@@ -6,8 +6,8 @@
         "background": "https://botc.app/assets/background5-CUu8vEFl.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "hideTitle": true,
-        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner_tb","spy","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","poisoner_tb","monk_tb","spy","scarletwoman","imp","tor","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
+        "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner_tb","spy_tb","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"],
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","poisoner_tb","monk_tb","spy_tb","scarletwoman","imp","tor","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
     },
     {
         "id": "washerwoman_tb",
@@ -335,7 +335,44 @@
         "ability": "Each night, choose a player: they are poisoned tonight and tomorrow day.",
         "flavor": "Add compound Alpha to compound Beta... NOT TOO MUCH!"
     },
-    "spy",
+    {
+        "id": "spy_tb",
+        "name": "Spy",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/spy_e-DU0tdGGe.webp",
+            "https://botc.app/assets/spy_g-7hnV_AFT.webp"
+        ],
+        "team": "minion",
+        "firstNight": 71,
+        "firstNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "otherNight": 91,
+        "otherNightReminder": "Show the Grimoire for as long as the Spy needs.",
+        "setup": false,
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ],
+        "ability": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
+        "flavor": "Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double.",
+        "jinxes": [
+            {
+                "id": "damsel",
+                "reason": "If the Spy is (or has been) in play, the Damsel is poisoned."
+            },
+            {
+                "id": "ogre",
+                "reason": "The Spy registers as evil to the Ogre."
+            },
+            {
+                "id": "poppygrower",
+                "reason": "If the Poppy Grower has their ability, the Spy does not see the Grimoire."
+            }
+        ]
+    },
     "scarletwoman",
     "baron",
     "imp",

@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Spy
 * Harpy
 * Witch
 * Cerenovus
@@ -180,7 +179,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 68 - $${\color{deepskyblue}Bounty Hunter}$$
 * 69 - $${\color{deepskyblue}Nightwatchman}$$
 * 70 - $${\color{deepskyblue}Cult Leader}$$
-* Spy
+* 71 - $${\color{darkred}Spy}$$
 * 72 - $${\color{deepskyblue}Ogre}$$
 * 73 - $${\color{deepskyblue}High Priestess}$$
 * 74 - $${\color{deepskyblue}General}$$
@@ -282,7 +281,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 88 - $${\color{deepskyblue}Nightwatchman}$$
 * 89 - $${\color{deepskyblue}Cult Leader}$$
 * 90 - $${\color{deepskyblue}Butler}$$
-* Spy
+* 91 - $${\color{darkred}Spy}$$
 * 92 - $${\color{deepskyblue}High Priestess}$$
 * 93 - $${\color{deepskyblue}General}$$
 * 94 - $${\color{deepskyblue}Chambermaid}$$
@@ -308,6 +307,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.106.0
+* Spy
 ### 0.105.0
 * Devil's Advocate
 ### 0.104.0
