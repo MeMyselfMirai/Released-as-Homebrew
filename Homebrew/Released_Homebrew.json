@@ -1769,7 +1769,21 @@
         "ability": "All Minions know a Damsel is in play. If a Minion publicly guesses you (once), your team loses.",
         "flavor": "Don't touch the hair, honey."
     },
-    "snitch",
+    {
+        "id": "snitch_rah",
+        "name": "Snitch",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/snitch_g-D_RNpbcY.webp",
+            "https://botc.app/assets/snitch_e-yBlnGiGd.webp"
+        ],
+        "team": "outsider",
+        "firstNight": 20,
+        "firstNightReminder": "Wake each Minion. Show the *THESE CHARACTERS ARE NOT IN PLAY* token and three not-in-play character tokens. Put each Minion to sleep.",
+        "setup": false,
+        "ability": "Each Minion gets 3 bluffs.",
+        "flavor": "It was John."
+    },
     "heretic",
     "puzzlemaster",
     "mezepheles",

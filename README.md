@@ -21,7 +21,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Snitch
 * Heretic
 * Puzzlemaster
 * Mezepheles
@@ -134,7 +133,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Yaggababble
 * 18 - $${\color{deepskyblue}Magician}$$
 * Minion Info
-* Snitch
+* 20 - $${\color{deepskyblue}Snitch}$$
 * 21 - $${\color{deepskyblue}Lunatic}$$
 * Summoner
 * Demon Info
@@ -313,6 +312,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.99.0
+* Snitch
 ### 0.98.0
 * Damsel
 ### 0.97.0
