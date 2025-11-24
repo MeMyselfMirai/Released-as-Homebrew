@@ -21,7 +21,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Saint
 * Barber
 * Hatter
 * Mutant
@@ -320,6 +319,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.92.0
+* Saint
 ### 0.91.1
 * Bad Moon Rising night order correction
 ### 0.91.0

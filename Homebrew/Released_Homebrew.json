@@ -1661,7 +1661,19 @@
         "ability": "When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die.",
         "flavor": "Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."
     },
-    "saint",
+    {
+        "id": "saint_rah",
+        "name": "Saint",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/saint_g-BU0hab0E.webp",
+            "https://botc.app/assets/saint_e-CnQBC4rO.webp"
+        ],
+        "team": "outsider",
+        "setup": false,
+        "ability": "If you die by execution, your team loses.",
+        "flavor": "Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."
+    },
     "barber",
     "hatter",
     "mutant",
