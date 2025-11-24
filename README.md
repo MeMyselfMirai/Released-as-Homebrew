@@ -326,6 +326,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.85.2
+* Pacifist Bad Moon Rising
 ### 0.85.1
 * Farmer night order documentation
 ### 0.85.0

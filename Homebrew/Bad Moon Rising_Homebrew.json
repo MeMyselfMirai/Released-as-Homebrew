@@ -215,7 +215,19 @@
         "ability": "If both your alive neighbors are good, they can't die.",
         "flavor": "If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."
     },
-    "pacifist",
+    {
+        "id": "pacifist_bmr",
+        "name": "Pacifist RAH",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/pacifist_g-DAkM1DME.webp",
+            "https://botc.app/assets/pacifist_e-BDyZFmeQ.webp"
+        ],
+        "team": "townsfolk",
+        "setup": false,
+        "ability": "Executed good players might not die.",
+        "flavor": "Distrust all in whom the impulse to punish is powerful."
+    },
     {
         "id": "fool_bmr",
         "name": "Fool",
