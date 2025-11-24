@@ -7,7 +7,7 @@
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
         "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin","witch","cerenovus","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","tor","barber","sweetheart","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch","cerenovus","pithag","fanggu","vigormortis","nodashii","vortox","tor","barber","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
     },
     {
         "id": "clockmaker_snv",
@@ -272,7 +272,24 @@
         "flavor": "These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."
     },
     "mutant",
-    "sweetheart",
+    {
+        "id": "sweetheart_snv",
+        "name": "Sweetheart",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/sweetheart_g-CmqS74DM.webp",
+            "https://botc.app/assets/sweetheart_e-Bm63hRzw.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 60,
+        "otherNightReminder": "If the Sweetheart died, a player became drunk immediately. If you haven't done this yet, do so now. :reminder:",
+        "reminders": [
+            "Drunk"
+        ],
+        "setup": false,
+        "ability": "When you die, 1 player is drunk from now on.",
+        "flavor": "I will never forget her. Never."
+    },
     "barber",
     "klutz",
     "eviltwin",

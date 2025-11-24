@@ -1556,7 +1556,24 @@
         "ability": "You may only nominate once per game. When you do, if the nominee is not the Demon, they die.",
         "flavor": "Golem help? Golem smash! Golem help."
     },
-    "sweetheart",
+    {
+        "id": "sweetheart_rah",
+        "name": "Sweetheart",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/sweetheart_g-CmqS74DM.webp",
+            "https://botc.app/assets/sweetheart_e-Bm63hRzw.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 60,
+        "otherNightReminder": "If the Sweetheart died, a player became drunk immediately. If you haven't done this yet, do so now. :reminder:",
+        "reminders": [
+            "Drunk"
+        ],
+        "setup": false,
+        "ability": "When you die, 1 player is drunk from now on.",
+        "flavor": "I will never forget her. Never."
+    },
     "plaguedoctor",
     "klutz",
     "moonchild",

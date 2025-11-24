@@ -21,7 +21,6 @@ Jinxes also use the "_rah" id. It is assumed these recreations will be used indi
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Sweetheart
 * Plague Doctor
 * Klutz
 * Moonchild
@@ -267,7 +266,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 57 - $${\color{deepskyblue}Gossip}$$
 * Hatter
 * Barber
-* Sweetheart
+* 60 - $${\color{deepskyblue}Sweetheart}$$
 * Plague Doctor
 * 62 - $${\color{deepskyblue}Sage}$$
 * 62 - $${\color{deepskyblue}Banshee}$$
@@ -324,6 +323,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.88.0
+* Sweetheart
 ### 0.87.0
 * Golem
 ### 0.86.0
