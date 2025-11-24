@@ -21,7 +21,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Hatter
 * Mutant
 * Politician
 * Zealot
@@ -259,7 +258,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Assassin
 * Godfather
 * 57 - $${\color{deepskyblue}Gossip}$$
-* Hatter
+* 58 - $${\color{deepskyblue}Hatter}$$
 * 59 - $${\color{deepskyblue}Barber}$$
 * 60 - $${\color{deepskyblue}Sweetheart}$$
 * 61 - $${\color{deepskyblue}Plague Doctor}$$
@@ -318,6 +317,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.94.0
+* Hatter
 ### 0.93.0
 * Barber
 ### 0.92.0

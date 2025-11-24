@@ -1692,7 +1692,24 @@
         "ability": "If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters.",
         "flavor": "Did you know that barbery and surgery were once the same profession? No? Well, now you do."
     },
-    "hatter",
+    {
+        "id": "hatter_rah",
+        "name": "Hatter",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/hatter_g-16CFZpfo.webp",
+            "https://botc.app/assets/hatter_e-BMVaOuLf.webp"
+        ],
+        "team": "outsider",
+        "otherNight": 58,
+        "otherNightReminder": "If the Hatter died today or tonight, wake Minions and Demons, allow them to choose new characters.",
+        "reminders": [
+            "Tea Party Tonight"
+        ],
+        "setup": false,
+        "ability": "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.",
+        "flavor": "One Hat. Too Hat. Three Hat. Tea Hat. Fore Hat. Thrive Hat. Six Hat. Sticks Hat."
+    },
     "mutant",
     "politician",
     "zealot",
