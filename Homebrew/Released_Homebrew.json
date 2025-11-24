@@ -2101,7 +2101,25 @@
         "ability": "Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo.",
         "flavor": "Surprise!"
     },
-    "assassin",
+    {
+        "id": "assassin_rah",
+        "name": "Assassin",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/assassin_e-BDitHnVO.webp",
+            "https://botc.app/assets/assassin_g-D_zJwNaF.webp"
+        ],
+        "team": "minion",
+        "otherNight": 55,
+        "otherNightReminder": "The Assassin might choose a player. :reminder: :reminder:",
+        "reminders": [
+            "Dead",
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, at night*, choose a player: they die, even if for some reason they could not.",
+        "flavor": "..."
+    },
     "wizard",
     "widow",
     "xaan",
