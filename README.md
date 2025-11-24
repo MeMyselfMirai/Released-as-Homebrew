@@ -5,7 +5,7 @@ Recreating every released Blood on the Clocktower character in homebrew format. 
 
 This will attempt to fully match the released versions of characters without any modifications. Note that a homebrew character cannot use the exact id of a released character without being overridden within the app, so "_rah" is appended to each character id.
 
-Jinxes also use the "_rah" id. It is assumed these recreations will be used individually on a script. If a recreated homebrew character has a jinx with another recreated homebrew chararacter, the "_rah" will need to be appended within the jinx.
+Jinxes on these recreated characters do not use the "_rah" id. These recreations can be used individually on a script. If two recreated homebrew characters on the same script share a jinx, the "_rah" will need to be appended to the id within the jinx.
 
 ## BOTC Online App Compatibility
 **3.48.0 - The app update from outer space**
@@ -322,6 +322,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.89.3
+* Jinx documentation correction
 ### 0.89.2
 * Downloaded online app file name
 ### 0.89.1
