@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Mezepheles
 * Godfather
 * Poisoner
 * Devil's Advocate
@@ -158,7 +157,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Cerenovus
 * Fearmonger
 * Harpy
-* Mezepheles
+* 45 - $${\color{darkred}Mezepheles}$$
 * Pukka
 * 47 - $${\color{deepskyblue}Pixie}$$
 * 48 - $${\color{deepskyblue}Huntsman}$$
@@ -226,7 +225,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Pit-Hag
 * Fearmonger
 * Harpy
-* Mezepheles
+* 31 - $${\color{darkred}Mezepheles}$$
 * Scarlet Woman
 * Summoner
 * 34 - $${\color{deepskyblue}Lunatic}$$
@@ -312,6 +311,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.102.0
+* Mezepheles
 ### 0.101.0
 * Puzzlemaster
 ### 0.100.0
