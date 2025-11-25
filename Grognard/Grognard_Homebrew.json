@@ -804,6 +804,51 @@
         ]
     },
     {
+        "id": "vizier_gah",
+        "name": "Vizier (Old Jinxes)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
+            "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
+        ],
+        "team": "minion",
+        "firstNight": 79,
+        "firstNightReminder": "Announce the Vizier player to the group.",
+        "setup": false,
+        "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
+        "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
+        "jinxes": [
+            {
+                "id": "alsaahir",
+                "reason": "If the Vizier is in play, the Alsaahir must also guess which Demon(s) are in play."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+            },
+            {
+                "id": "investigator",
+                "reason": "If the Investigator learns that the Vizier is in play, the existence of the Vizier is not announced by the Storyteller."
+            },
+            {
+                "id": "politician",
+                "reason": "The Politician might register as evil to the Vizier."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Vizier loses their ability, they learn this. If the Vizier is executed while they have their ability, their team wins."
+            },
+            {
+                "id": "zealot",
+                "reason": "The Zealot might register as evil to the Vizier."
+            }
+        ]
+    },
+    {
         "id": "gardener_gah",
         "name": "Gardener (Classic)",
         "edition": "fabled",

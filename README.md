@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* vizier
 * Organ Grinder
 * Boffin
 * Baron
@@ -169,7 +168,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 76 - $${\color{deepskyblue}Mathematician}$$
 * Dawn
 * Leviathan
-* Vizier
+* 79 - $${\color{darkred}Vizier}$$
 
 ### Other Nights Order
 * Dusk
@@ -289,6 +288,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.125.0
+* Vizier
 ### 0.124.0
 * Scarlet Woman
 ### 0.123.0

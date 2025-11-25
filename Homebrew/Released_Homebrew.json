@@ -2443,7 +2443,51 @@
             }
         ]
     },
-    "vizier",
+    {
+        "id": "vizier_rah",
+        "name": "Vizier",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
+            "https://botc.app/assets/vizier_g-CKNiI-8C.webp"
+        ],
+        "team": "minion",
+        "firstNight": 79,
+        "firstNightReminder": "Announce the Vizier player to the group.",
+        "setup": false,
+        "ability": "All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
+        "flavor": "An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me.",
+        "jinxes": [
+            {
+                "id": "alsaahir",
+                "reason": "The Storyteller doesn't declare the Vizier is in play."
+            },
+            {
+                "id": "courtier",
+                "reason": "If the Vizier loses their ability, they learn this, and cannot die during the day."
+            },
+            {
+                "id": "fearmonger",
+                "reason": "The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player."
+            },
+            {
+                "id": "investigator",
+                "reason": "The Storyteller doesn't declare the Vizier is in play."
+            },
+            {
+                "id": "politician",
+                "reason": "The Politician might register as evil to the Vizier."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Vizier loses their ability, they learn this, and cannot die during the day."
+            },
+            {
+                "id": "zealot",
+                "reason": "The Zealot might register as evil to the Vizier."
+            }
+        ]
+    },
     "organgrinder",
     "boffin",
     "baron",
