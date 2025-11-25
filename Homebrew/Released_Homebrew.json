@@ -2940,7 +2940,26 @@
         "ability": "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]",
         "flavor": "Your walls and your weapons are but smoke in dreams."
     },
-    "lordoftyphon",
+    {
+        "id": "lordoftyphon_rah",
+        "name": "Lord of Typhon",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lordoftyphon_e-DbP_44G8.webp",
+            "https://botc.app/assets/lordoftyphon_g-CHKJk_1t.webp"
+        ],
+        "team": "demon",
+        "firstNight": 7.5,
+        "firstNightReminder": "Replace neighbors of the Lord of Typhon with Minions, wake them, tell them their new alignment and character, then do minion info.",
+        "otherNight": 47.5,
+        "otherNightReminder": "The Lord of Typhon chooses a player. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": true,
+        "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? to +? Outsiders]",
+        "flavor": "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
+    },
     "lleech",
     "alhadikhia",
     "riot",

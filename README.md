@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Lord of Typhon
 * Lleech
 * Al-Hadikhia
 * Riot
@@ -79,7 +78,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Toymaker
 * Storm Catcher
 * 6 - $${\color{darkred}Wraith}$$
-* Lord of Typhon
+* 7 - $${\color{darkred}Lord of Typhon}$$
 * 8 - $${\color{darkred}Kazali}$$
 * Apprentice
 * Barista
@@ -201,7 +200,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 44 - $${\color{darkred}Fang Gu}$$
 * 45 - $${\color{darkred}No Dashii}$$
 * 46 - $${\color{darkred}Vortox}$$
-* Lord of Typhon
+* 47 - $${\color{darkred}Lord of Typhon}$$
 * 48 - $${\color{darkred}Vigormortis}$$
 * 49 - $${\color{darkred}Ojo}$$
 * Al-Hadikhia
@@ -269,6 +268,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.143.0
+* Lord of Typhon
 ### 0.142.0
 * Fang Gu
 ### 0.141.3
