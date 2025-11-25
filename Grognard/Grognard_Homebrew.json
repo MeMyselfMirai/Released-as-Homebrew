@@ -1434,6 +1434,152 @@
         ]
     },
     {
+        "id": "leviathan_gah1",
+        "name": "Leviathan (Older Jinxes)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/leviathan_e-DvtMvt2q.webp",
+            "https://botc.app/assets/leviathan_g-DnoVSKUH.webp"
+        ],
+        "team": "demon",
+        "firstNight": 78,
+        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "otherNight": 97,
+        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3",
+            "Day 4",
+            "Day 5",
+            "Good Player Executed"
+        ],
+        "setup": false,
+        "ability": "If more than 1 good player is executed, evil wins. All players know you are in play. After day 5, evil wins.",
+        "flavor": "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee.",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+            },
+            {
+                "id": "exorcist",
+                "reason": "Evil does not win when more than 1 good player has been executed, if the Exorcist is alive and has ever successfully chosen the Leviathan."
+            },
+            {
+                "id": "farmer",
+                "reason": "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+            },
+            {
+                "id": "grandmother",
+                "reason": "If Leviathan is in play and the Grandchild dies by execution, evil wins."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If the Leviathan is in play, the Innkeeper-protected-players are safe from all evil abilities."
+            },
+            {
+                "id": "king",
+                "reason": "If the Leviathan is in play, and at least 1 player is dead, the King learns an alive character each night."
+            },
+            {
+                "id": "mayor",
+                "reason": "If the Leviathan is in play & no execution occurs on day 5, good wins."
+            },
+            {
+                "id": "monk",
+                "reason": "If the Leviathan is in play, the Monk-protected-player is safe from all evil abilities."
+            },
+            {
+                "id": "pithag",
+                "reason": "After day 5, the Pit-Hag cannot choose Leviathan."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "Each night*, the Leviathan chooses an alive player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+            },
+            {
+                "id": "sage",
+                "reason": "Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+            },
+            {
+                "id": "soldier",
+                "reason": "If the Leviathan is in play, the Soldier is safe from all evil abilities."
+            }
+        ]
+    },
+    {
+        "id": "leviathan_gah2",
+        "name": "Leviathan (Older Jinxes)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/leviathan_e-DvtMvt2q.webp",
+            "https://botc.app/assets/leviathan_g-DnoVSKUH.webp"
+        ],
+        "team": "demon",
+        "firstNight": 78,
+        "firstNightReminder": "Declare that \"The Leviathan is in play.\" Mark the Leviathan with the *DAY 1* reminder. :reminder:",
+        "otherNight": 97,
+        "otherNightReminder": "Optionally, declare that \"The Leviathan is in play.\" Replace the reminder token. :reminder:",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3",
+            "Day 4",
+            "Day 5",
+            "Good Player Executed"
+        ],
+        "setup": false,
+        "ability": "If more than 1 good player is executed, evil wins. All players know you are in play. After day 5, evil wins.",
+        "flavor": "To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee.",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "If Leviathan is in play, and the Banshee dies by execution, all players learn that the Banshee has died, and the Banshee gains their ability."
+            },
+            {
+                "id": "farmer",
+                "reason": "If Leviathan is in play & a Farmer dies by execution, a good player becomes a Farmer that night."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies on or after day 5, the Demon cannot choose Leviathan."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If Leviathan nominates and executes a player the Innkeeper chose, that player does not die."
+            },
+            {
+                "id": "mayor",
+                "reason": "If Leviathan is in play & no execution occurs on day 5, good wins."
+            },
+            {
+                "id": "monk",
+                "reason": "If Leviathan nominates and executes the player the Monk chose, that player does not die."
+            },
+            {
+                "id": "pithag",
+                "reason": "After day 5, the Pit-Hag cannot choose Leviathan."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If Leviathan is in play & the Ravenkeeper dies by execution, they wake that night to use their ability. They are drunk if their nominator was good."
+            },
+            {
+                "id": "sage",
+                "reason": "If Leviathan is in play & the Sage dies by execution, they wake that night to use their ability. They are drunk if their nominator was good."
+            },
+            {
+                "id": "soldier",
+                "reason": "If Leviathan nominates and executes the Soldier, the Soldier does not die."
+            }
+        ]
+    },
+    {
         "id": "gardener_gah",
         "name": "Gardener (Classic)",
         "edition": "fabled",

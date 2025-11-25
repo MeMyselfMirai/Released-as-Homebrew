@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Leviathan
 * Thief
 * Bureaucrat
 * Barista
@@ -146,7 +145,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 75 - $${\color{deepskyblue}Chambermaid}$$
 * 76 - $${\color{deepskyblue}Mathematician}$$
 * Dawn
-* Leviathan
+* 78 - $${\color{darkred}Leviathan}$$
 * 79 - $${\color{darkred}Vizier}$$
 
 ### Other Nights Order
@@ -247,7 +246,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 94 - $${\color{deepskyblue}Chambermaid}$$
 * 95 - $${\color{deepskyblue}Mathematician}$$
 * Dawn
-* Leviathan
+* 97 - $${\color{darkred}Leviathan}$$
 
 # Open Online app missing features
 * Cacklejack is not implemented.
@@ -265,6 +264,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.147.0
+* Leviathan
 ### 0.146.0
 * Riot
 ### 0.145.0
