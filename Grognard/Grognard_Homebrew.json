@@ -1230,6 +1230,210 @@
         ]
     },
     {
+        "id": "riot_gah1",
+        "name": "Riot (Old Jinxes)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/riot_e-DKD9x_C8.webp",
+            "https://botc.app/assets/riot_g-B3TDQj13.webp"
+        ],
+        "team": "demon",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3"
+        ],
+        "setup": false,
+        "ability": "On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen.",
+        "flavor": "Larga vida a la revolución! Mi revolucion!",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability."
+            },
+            {
+                "id": "exorcist",
+                "reason": "If the Exorcist chooses Riot on the 3rd night, Minions do not become Riot."
+            },
+            {
+                "id": "farmer",
+                "reason": "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die."
+            },
+            {
+                "id": "grandmother",
+                "reason": "If Riot is in play and the Grandchild dies during the day, the Grandmother dies too."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If Riot is in play, the Innkeeper-protected player is safe from all evil abilities."
+            },
+            {
+                "id": "king",
+                "reason": "If Riot is in play, and at least 1 player is dead, the King learns an alive character each night."
+            },
+            {
+                "id": "mayor",
+                "reason": "The Mayor may choose to stop nominations. If they do so when only 1 Riot is alive, good wins. Otherwise, evil wins."
+            },
+            {
+                "id": "monk",
+                "reason": "If Riot is in play, the Monk-protected player is safe from all evil abilities."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die."
+            },
+            {
+                "id": "sage",
+                "reason": "Each night*, Riot chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die."
+            },
+            {
+                "id": "soldier",
+                "reason": "If Riot is in play, the Soldier is safe from all evil abilities."
+            }
+        ]
+    },
+    {
+        "id": "riot_gah2",
+        "name": "Riot (Classic)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/riot_e-DKD9x_C8.webp",
+            "https://botc.app/assets/riot_g-B3TDQj13.webp"
+        ],
+        "team": "demon",
+        "reminders": [
+            "Day 1",
+            "Day 2",
+            "Day 3"
+        ],
+        "setup": false,
+        "ability": "Nominees die, but may nominate again immediately (on day 3, they must). After day 3, evil wins. [All Minions are Riot]",
+        "flavor": "Larga vida a la revolución! Mi revolucion!",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "If Riot nominates and kills the Banshee, all players learn that the Banshee has died, and the Banshee may nominate two players immediately."
+            },
+            {
+                "id": "butler",
+                "reason": "The Butler can not nominate their master."
+            },
+            {
+                "id": "cannibal",
+                "reason": "Players that die by nomination register as being executed to the Cannibal."
+            },
+            {
+                "id": "clockmaker",
+                "reason": "Riot registers as a Minion to the Clockmaker."
+            },
+            {
+                "id": "damsel",
+                "reason": "Riot registers as a Minion to the Damsel."
+            },
+            {
+                "id": "devilsadvocate",
+                "reason": "Players that die by nomination register as being executed to the Devil's Advocate."
+            },
+            {
+                "id": "engineer",
+                "reason": "Riot and the Engineer can not both be in play at the start of the game. If the Engineer creates Riot, the evil players become Riot."
+            },
+            {
+                "id": "exorcist",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "flowergirl",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "farmer",
+                "reason": "If a Riot player nominates and kills a Farmer, the Farmer uses their ability tonight."
+            },
+            {
+                "id": "golem",
+                "reason": "If the Golem nominates Riot, the Riot player does not die."
+            },
+            {
+                "id": "grandmother",
+                "reason": "If a Riot player nominates and kills the Grandchild, the Grandmother dies too."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies, Riot is in play and a Riot chooses a different Demon, a normal evil team is created from the Riot players. If the Hatter dies and the Demon chooses Riot, Minions become Riot too."
+            },
+            {
+                "id": "innkeeper",
+                "reason": "If a Riot player nominates an Innkeeper-protected-player, the Innkeeper-protected-player does not die."
+            },
+            {
+                "id": "king",
+                "reason": "If a Riot player nominates and kills the King and the Choirboy is alive, the Choirboy uses their ability tonight."
+            },
+            {
+                "id": "mayor",
+                "reason": "If the 3rd day begins with just three players alive, the players may choose (as a group) not to nominate at all. If so (and a Mayor is alive) then the Mayor's team wins."
+            },
+            {
+                "id": "minstrel",
+                "reason": "Only 1 jinxed character can be in play."
+            },
+            {
+                "id": "monk",
+                "reason": "If a Riot player nominates and kills the Monk-protected-player, the Monk-protected-player does not die."
+            },
+            {
+                "id": "pacifist",
+                "reason": "Players that die by nomination register as being executed to the Pacifist."
+            },
+            {
+                "id": "pithag",
+                "reason": "If the Pit-Hag creates Riot, all evil players become Riot. If the Pit-Hag creates Riot after day 3, the game continues for one more day."
+            },
+            {
+                "id": "preacher",
+                "reason": "Riot registers as a Minion to the Preacher."
+            },
+            {
+                "id": "ravenkeeper",
+                "reason": "If a Riot player nominates and kills the Ravenkeeper, the Ravenkeeper uses their ability tonight."
+            },
+            {
+                "id": "sage",
+                "reason": "If a Riot player nominates and kills a Sage, the Sage uses their ability tonight."
+            },
+            {
+                "id": "saint",
+                "reason": "If a good player nominates and kills the Saint, the Saint's team loses."
+            },
+            {
+                "id": "snitch",
+                "reason": "If the Snitch is in play, each Riot player gets an extra 3 bluffs."
+            },
+            {
+                "id": "soldier",
+                "reason": "If a Riot player nominates the Soldier, the Soldier does not die."
+            },
+            {
+                "id": "summoner",
+                "reason": "If the Summoner creates Riot, all Minions also become Riot."
+            },
+            {
+                "id": "towncrier",
+                "reason": "Riot registers as a Minion to the Town Crier."
+            },
+            {
+                "id": "undertaker",
+                "reason": "Players that die by nomination register as being executed to the Undertaker."
+            },
+            {
+                "id": "zealot",
+                "reason": "If you are nominated, you must nominate again, even if dead."
+            }
+        ]
+    },
+    {
         "id": "gardener_gah",
         "name": "Gardener (Classic)",
         "edition": "fabled",

@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Riot
 * Leviathan
 * Thief
 * Bureaucrat
@@ -266,6 +265,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.146.0
+* Riot
 ### 0.145.0
 * Al-Hadikhia
 ### 0.144.0
