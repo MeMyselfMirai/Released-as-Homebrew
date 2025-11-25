@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Bureaucrat
 * Barista
 * Harlot
 * Butcher
@@ -77,7 +76,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 8 - $${\color{darkred}Kazali}$$
 * Apprentice
 * Barista
-* Bureaucrat
+* 11 - $${\color{mediumvioletred}Bureaucrat}$$
 * 12 - $${\color{mediumvioletred}Thief}$$
 * 13 - $${\color{darkred}Boffin}$$
 * 14 - $${\color{deepskyblue}Philosopher}$$
@@ -154,7 +153,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 4 - $${\color{darkred}Wraith}$$
 * Barista
 * 5.5 - $${\color{fuchsia}Cacklejack}$$
-* Bureaucrat
+* 6 - $${\color{mediumvioletred}Bureaucrat}$$
 * 7 - $${\color{mediumvioletred}Thief}$$
 * Harlot
 * Bone Collector
@@ -263,6 +262,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.149.0
+* Bureaucrat
 ### 0.148.0
 * Thief
 ### 0.147.0
