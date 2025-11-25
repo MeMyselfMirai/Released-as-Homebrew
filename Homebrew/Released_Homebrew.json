@@ -2960,7 +2960,37 @@
         "ability": "Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? to +? Outsiders]",
         "flavor": "In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."
     },
-    "lleech",
+    {
+        "id": "lleech_rah",
+        "name": "Lleech",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/lleech_e-DzN_r6Yd.webp",
+            "https://botc.app/assets/lleech_g-CSTCwFJh.webp"
+        ],
+        "team": "demon",
+        "firstNight": 30,
+        "firstNightReminder": "The Lleech chooses a player. :reminder:",
+        "otherNight": 51,
+        "otherNightReminder": "The Lleech chooses a player. :reminder:",
+        "reminders": [
+            "Dead",
+            "Poisoned"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead.",
+        "flavor": "Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say.",
+        "jinxes": [
+            {
+                "id": "mastermind",
+                "reason": "If the Mastermind is alive and the Lleech host dies by execution, the Lleech lives but loses their ability."
+            },
+            {
+                "id": "slayer",
+                "reason": "If the Slayer slays the Lleech host, the host dies."
+            }
+        ]
+    },
     "alhadikhia",
     "riot",
     "leviathan",

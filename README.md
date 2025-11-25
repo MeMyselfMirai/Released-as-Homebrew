@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Lleech
 * Al-Hadikhia
 * Riot
 * Leviathan
@@ -101,7 +100,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 27 - $${\color{deepskyblue}Engineer}$$
 * 28 - $${\color{deepskyblue}Preacher}$$
 * 29 - $${\color{darkred}Lil' Monsta}$$
-* Lleech
+* 30 - $${\color{darkred}Lleech}$$
 * 31 - $${\color{darkred}Xaan}$$
 * 32 - $${\color{darkred}Poisoner}$$
 * 33 - $${\color{darkred}Widow}$$
@@ -204,7 +203,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 48 - $${\color{darkred}Vigormortis}$$
 * 49 - $${\color{darkred}Ojo}$$
 * Al-Hadikhia
-* Lleech
+* 51 - $${\color{darkred}Lleech}$$
 * 52 - $${\color{darkred}Lil' Monsta}$$
 * 53 - $${\color{darkred}Yaggababble}$$
 * 54 - $${\color{darkred}Kazali}$$
@@ -268,6 +267,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.144.0
+* Lleech
 ### 0.143.1
 * Night order correction
 ### 0.143.0
