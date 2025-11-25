@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Bone Collector
 * Judge
 * Apprentice
 * Beggar
@@ -150,7 +149,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 6 - $${\color{fuschia}Bureaucrat}$$
 * 7 - $${\color{fuschia}Thief}$$
 * 8 - $${\color{fuschia}Harlot}$$
-* Bone Collector
+* 9 - $${\color{fuschia}Bone Collector}$$
 * 10 - $${\color{deepskyblue}Philosopher}$$
 * 11 - $${\color{deepskyblue}Poppy Grower}$$
 * 12 - $${\color{deepskyblue}Sailor}$$
@@ -256,6 +255,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.156.0
+* Bone Collector
 ### 0.155.0
 * Gangster
 ### 0.154.0
