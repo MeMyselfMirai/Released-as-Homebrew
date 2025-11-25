@@ -3329,7 +3329,20 @@
         "ability": "Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private.",
         "flavor": "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
     },
-    "gangster",
+    {
+        "id": "gangster_rah",
+        "name": "Gangster",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/gangster-B_sTmUJn.webp",
+            "https://botc.app/assets/gangster_g-CA0UOV4w.webp",
+            "https://botc.app/assets/gangster_e-DCxm-xho.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "Once per day, you may choose to kill an alive neighbor, if your other alive neighbor agrees.",
+        "flavor": "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
+    },
     "bonecollector",
     "judge",
     "apprentice",
