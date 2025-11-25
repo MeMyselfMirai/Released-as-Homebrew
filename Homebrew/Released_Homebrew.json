@@ -3268,7 +3268,20 @@
         "ability": "Each night*, choose a living player: if they agree, you learn their character, but you both might die.",
         "flavor": "Enchanté, Sailor. You look like you need someone to really listen to your troubles. I'm a good listener. Very, very good."
     },
-    "butcher",
+    {
+        "id": "butcher_rah",
+        "name": "Butcher",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/butcher-COYeTS3-.webp",
+            "https://botc.app/assets/butcher_g-BqDe54Mz.webp",
+            "https://botc.app/assets/butcher_e-BvZvHE-0.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "Each day, after the 1st execution, you may nominate again.",
+        "flavor": "It tastes like chicken. More please."
+    },
     {
         "id": "cacklejack_rah",
         "name": "Cacklejack",
