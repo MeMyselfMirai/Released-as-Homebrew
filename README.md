@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Legion
 * Fang Gu
 * Lord of Typhon
 * Lleech
@@ -194,7 +193,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 35 - $${\color{deepskyblue}Exorcist}$$
 * 36 - $${\color{deepskyblue}Lycanthrope}$$
 * 37 - $${\color{deepskyblue}Princess}$$
-* Legion
+* 38 - $${\color{darkred}Legion}$$
 * 39 - $${\color{darkred}Imp}$$
 * 40 - $${\color{darkred}Zombuul}$$
 * 41 - $${\color{darkred}Pukka}$$
@@ -271,6 +270,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.141.0
+* Legion
 ### 0.140.1
 * Online app bug documentation
 ### 0.140.0

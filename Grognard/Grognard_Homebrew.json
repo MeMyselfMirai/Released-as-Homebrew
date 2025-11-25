@@ -1016,6 +1016,57 @@
         ]
     },
     {
+        "id": "legion_gah",
+        "name": "Legion (Old Jinxes)",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/legion_e-DyzBzM4-.webp",
+            "https://botc.app/assets/legion_g-B4S3Jf4H.webp"
+        ],
+        "team": "demon",
+        "otherNight": 38,
+        "otherNightReminder": "A player might die. :reminder:",
+        "reminders": [
+            "Dead",
+            "About To Die"
+        ],
+        "setup": true,
+        "ability": "Each night*, a player might die. Executions fail if only evil voted. You register as a Minion too. [Most players are Legion]",
+        "flavor": "We are the chill wind on a winter’s day. We are the shadow in the moonless night. We are the poison in your tea and the whisper in your ear. We are everywhere.",
+        "special": [
+            {
+                "name": "bag-duplicate",
+                "type": "selection"
+            }
+        ],
+        "jinxes": [
+            {
+                "id": "engineer",
+                "reason": "Legion and the Engineer can not both be in play at the start of the game. If the Engineer creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "hatter",
+                "reason": "If the Hatter dies and Legion is in play, nothing happens. If the Hatter dies and an evil player chooses Legion, all current evil players become Legion."
+            },
+            {
+                "id": "minstrel",
+                "reason": "If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion."
+            },
+            {
+                "id": "preacher",
+                "reason": "If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion."
+            },
+            {
+                "id": "summoner",
+                "reason": "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+            },
+            {
+                "id": "zealot",
+                "reason": "The Zealot might register as evil to Legion's ability."
+            }
+        ]
+    },
+    {
         "id": "gardener_gah",
         "name": "Gardener (Classic)",
         "edition": "fabled",
