@@ -2720,7 +2720,26 @@
         "ability": "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.",
         "flavor": "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
     },
-    "shabaloth",
+    {
+        "id": "shabaloth_rah",
+        "name": "Shabaloth",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/shabaloth_e-DsCO_Txn.webp",
+            "https://botc.app/assets/shabaloth_g-BUwNFN-9.webp"
+        ],
+        "team": "demon",
+        "otherNight": 42,
+        "otherNightReminder": "A previously chosen player might be resurrected. :reminder: The Shabaloth chooses 2 players. :reminder: :reminder:",
+        "reminders": [
+            "Dead",
+            "Dead",
+            "Alive"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated.",
+        "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
+    },
     "ojo",
     "kazali",
     "po",
