@@ -3363,7 +3363,23 @@
         "ability": "Once per game, at night*, choose a dead player: they regain their ability until dusk.",
         "flavor": "I collect many things. Hair. Teeth. Clothes. Fragments of poems. The dreams of lost lovers. My secret arts are not for you to know but my fee is a mere pittance. Bring me the blood of a noblewoman who died of heartbreak under a full moon, and you shall have your answers."
     },
-    "judge",
+    {
+        "id": "judge_rah",
+        "name": "Judge",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/judge-Df7wYZLu.webp",
+            "https://botc.app/assets/judge_g-CJbFZ44x.webp",
+            "https://botc.app/assets/judge_e-jGAdrE7z.webp"
+        ],
+        "team": "traveller",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, if another player nominated, you may choose to force the current execution to pass or fail.",
+        "flavor": "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+    },
     "apprentice",
     "beggar",
     "deviant",

@@ -495,7 +495,23 @@
         "ability": "Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private.",
         "flavor": "Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."
     },
-    "judge",    
+    {
+        "id": "judge_bmr",
+        "name": "Judge",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/judge-Df7wYZLu.webp",
+            "https://botc.app/assets/judge_g-CJbFZ44x.webp",
+            "https://botc.app/assets/judge_e-jGAdrE7z.webp"
+        ],
+        "team": "traveller",
+        "reminders": [
+            "No Ability"
+        ],
+        "setup": false,
+        "ability": "Once per game, if another player nominated, you may choose to force the current execution to pass or fail.",
+        "flavor": "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
+    },
     "bishop",
     "voudon"
 ]
