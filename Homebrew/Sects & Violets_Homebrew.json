@@ -7,7 +7,7 @@
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
         "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin_snv","witch_snv","cerenovus_snv","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch_snv","cerenovus_snv","pithag_snv","fanggu","vigormortis","nodashii","vortox","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch_snv","cerenovus_snv","pithag_snv","fanggu","vigormortis","nodashii_snv","vortox","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
     },
     {
         "id": "clockmaker_snv",
@@ -440,7 +440,26 @@
     },
     "fanggu",
     "vigormortis",
-    "nodashii",
+    {
+        "id": "nodashii_snv",
+        "name": "No Dashii",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/nodashii_e-Dt8UO6rj.webp",
+            "https://botc.app/assets/nodashii_g-jI2LJQhL.webp"
+        ],
+        "team": "demon",
+        "otherNight": 45,
+        "otherNightReminder": "The No Dashii chooses a player. :reminder:",
+        "reminders": [
+            "Dead",
+            "Poisoned",
+            "Poisoned"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. Your 2 Townsfolk neighbors are poisoned.",
+        "flavor": "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
+    },
     "vortox",
     "barista",
     "harlot",

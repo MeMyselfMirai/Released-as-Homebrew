@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* No Dashii
 * Imp
 * Shabaloth
 * Ojo
@@ -210,7 +209,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Shabaloth
 * Po
 * Fang Gu
-* No Dashii
+* 45 - $${\color{darkred}No Dashii}$$
 * Vortox
 * Lord of Typhon
 * Vigormortis
@@ -282,6 +281,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.132.0
+* No Dashii
 ### 0.131.0
 * Lil' Monsta
 ### 0.130.0
