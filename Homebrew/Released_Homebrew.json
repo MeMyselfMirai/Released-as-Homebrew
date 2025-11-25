@@ -1097,7 +1097,7 @@
     },
     {
         "id": "amnesiac_rah",
-        "name": "Amnesiac RAH",
+        "name": "Amnesiac",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/amnesiac_g-1rV8CyUl.webp",
@@ -1343,7 +1343,7 @@
     },
     {
         "id": "pacifist_rah",
-        "name": "Pacifist RAH",
+        "name": "Pacifist",
         "edition": "bmr",
         "image": [
             "https://botc.app/assets/pacifist_g-DAkM1DME.webp",
@@ -1962,7 +1962,7 @@
     },
     {
         "id": "harpy_rah",
-        "name": "Harpy RAH",
+        "name": "Harpy",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/harpy_e-ChKTPCeL.webp",
