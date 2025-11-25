@@ -401,7 +401,19 @@
             }
         ]
     },
-    "baron",
+    {
+        "id": "baron_tb",
+        "name": "Baron",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/baron_e-CH4q2C6-.webp",
+            "https://botc.app/assets/baron_g-DSaQcH7D.webp"
+        ],
+        "team": "minion",
+        "setup": true,
+        "ability": "There are extra Outsiders in play. [+2 Outsiders]",
+        "flavor": "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
+    },
     "imp",
     "bureaucrat",
     "thief",
