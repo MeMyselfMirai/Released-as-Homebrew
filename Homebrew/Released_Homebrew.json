@@ -779,9 +779,9 @@
             "https://botc.app/assets/nightwatchman_e-DcwB8vOD.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 69.5,
+        "firstNight": 69,
         "firstNightReminder": "The Nightwatchman might choose a player :reminder: Put the Nightwatchman to sleep. Wake the target and show the *THIS PLAYER IS* and Nightwatchman tokens and point to the Nightwatchman.",
-        "otherNight": 88.5,
+        "otherNight": 88,
         "otherNightReminder": "The Nightwatchman might choose a player :reminder: Put the Nightwatchman to sleep. Wake the target and show the *THIS PLAYER IS* and Nightwatchman tokens and point to the Nightwatchman.",
         "reminders": [
             "No Ability"
@@ -871,9 +871,9 @@
             "https://botc.app/assets/huntsman_e-CN9kkQNR.webp"
         ],
         "team": "townsfolk",
-        "firstNight": 48.5,
+        "firstNight": 48,
         "firstNightReminder": "The Huntsman might choose a player. :reminder: If that player was the Damsel: Put the Huntsman to sleep. Wake the Damsel and show them the *YOU ARE* info token and their new character token.",
-        "otherNight": 66.5,
+        "otherNight": 66,
         "otherNightReminder": "The Huntsman might choose a player. :reminder: If that player was the Damsel: Put the Huntsman to sleep. Wake the Damsel and show them the *YOU ARE* info token and their new character token.",
         "reminders": [
             "No Ability"
@@ -1202,7 +1202,7 @@
             "https://botc.app/assets/banshee_e-8hOn5kSm.webp"
         ],
         "edition": "carousel",
-        "otherNight": 63.5,
+        "otherNight": 63,
         "otherNightReminder": "If the Banshee was killed by the Demon tonight, announce to all players that the Banshee has died. :reminder:",
         "reminders": [
             "Has Ability"
@@ -1849,9 +1849,9 @@
             "https://botc.app/assets/mezepheles_g-DlDB5-jk.webp"
         ],
         "team": "minion",
-        "firstNight": 45.5,
+        "firstNight": 45,
         "firstNightReminder": "Show the written word.",
-        "otherNight": 31.5,
+        "otherNight": 31,
         "otherNightReminder": "If a player is marked with the *TURNS EVIL* reminder, wake them. Show the *YOU ARE* info token and a thumbs down. The Mezepheles loses their ability. :reminder:",
         "reminders": [
             "Turns Evil",
@@ -1870,9 +1870,9 @@
             "https://botc.app/assets/godfather_g-BHOpUHNN.webp"
         ],
         "team": "minion",
-        "firstNight": 37.5,
+        "firstNight": 37,
         "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
-        "otherNight": 56.5,
+        "otherNight": 56,
         "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
         "reminders": [
             "Died Today",
@@ -1990,9 +1990,9 @@
             "https://botc.app/assets/witch_g-CI6rg-Tb.webp"
         ],
         "team": "minion",
-        "firstNight": 41.5,
+        "firstNight": 41,
         "firstNightReminder": "The Witch chooses a player. :reminder:",
-        "otherNight": 26.5,
+        "otherNight": 26,
         "otherNightReminder": "The Witch chooses a player. :reminder:",
         "reminders": [
             "Cursed"
@@ -2010,9 +2010,9 @@
             "https://botc.app/assets/cerenovus_g-Dks6rbpA.webp"
         ],
         "team": "minion",
-        "firstNight": 42.5,
+        "firstNight": 42,
         "firstNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
-        "otherNight": 27.5,
+        "otherNight": 27,
         "otherNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
         "reminders": [
             "Mad"
@@ -2036,9 +2036,9 @@
             "https://botc.app/assets/fearmonger_g-WdnstOgT.webp"
         ],
         "team": "minion",
-        "firstNight": 43.5,
+        "firstNight": 43,
         "firstNightReminder": "The Fearmonger chooses a player. :reminder: Declare that \"the Fearmonger has chosen a player.\"",
-        "otherNight": 29.5,
+        "otherNight": 29,
         "otherNightReminder": "The Fearmonger chooses a player. :reminder: If the player wasn't already marked with the *FEAR* reminder, declare that \"the Fearmonger has chosen a player.\"",
         "reminders": [
             "Fear"
@@ -2150,7 +2150,7 @@
             "https://botc.app/assets/widow_g-BMAAZQVw.webp"
         ],
         "team": "minion",
-        "firstNight": 33.5,
+        "firstNight": 33,
         "firstNightReminder": "Show the Grimoire for as long as the Widow needs. The Widow chooses a player. :reminder:",
         "reminders": [
             "Poisoned",
@@ -2283,9 +2283,9 @@
             "https://botc.app/assets/summoner_g-B3PLNqgM.webp"
         ],
         "team": "minion",
-        "firstNight": 22.5,
+        "firstNight": 22,
         "firstNightReminder": "Show the *THESE CHARACTERS ARE NOT IN PLAY* token. Show 3 not-in-play good character tokens.",
-        "otherNight": 33.5,
+        "otherNight": 33,
         "otherNightReminder": "Change the Summoner reminder token to the relevant night. If it is night 3, the Summoner chooses a player and a Demon. Put the Summoner to sleep. Wake the chosen player. Show the *YOU ARE* token, a thumbs down and the chosen Demon token.",
         "reminders": [
             "Night 1",
@@ -2949,9 +2949,9 @@
             "https://botc.app/assets/lordoftyphon_g-CHKJk_1t.webp"
         ],
         "team": "demon",
-        "firstNight": 7.5,
+        "firstNight": 7,
         "firstNightReminder": "Replace neighbors of the Lord of Typhon with Minions, wake them, tell them their new alignment and character, then do minion info.",
-        "otherNight": 47.5,
+        "otherNight": 47,
         "otherNightReminder": "The Lord of Typhon chooses a player. :reminder:",
         "reminders": [
             "Dead"

@@ -268,6 +268,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.143.1
+* Night order correction
 ### 0.143.0
 * Lord of Typhon
 ### 0.142.0

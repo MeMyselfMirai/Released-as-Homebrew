@@ -360,9 +360,9 @@
             "https://botc.app/assets/witch_g-CI6rg-Tb.webp"
         ],
         "team": "minion",
-        "firstNight": 41.5,
+        "firstNight": 41,
         "firstNightReminder": "The Witch chooses a player. :reminder:",
-        "otherNight": 26.5,
+        "otherNight": 26,
         "otherNightReminder": "The Witch chooses a player. :reminder:",
         "reminders": [
             "Cursed"
@@ -380,9 +380,9 @@
             "https://botc.app/assets/cerenovus_g-Dks6rbpA.webp"
         ],
         "team": "minion",
-        "firstNight": 42.5,
+        "firstNight": 42,
         "firstNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
-        "otherNight": 27.5,
+        "otherNight": 27,
         "otherNightReminder": "The Cerenovus chooses a player & a character. :reminder: Put the Cerenovus to sleep. Wake the target. Show the *THIS CHARACTER SELECTED YOU* token, the Cerenovus token, then the madness-character token.",
         "reminders": [
             "Mad"

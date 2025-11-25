@@ -328,9 +328,9 @@
             "https://botc.app/assets/godfather_g-BHOpUHNN.webp"
         ],
         "team": "minion",
-        "firstNight": 37.5,
+        "firstNight": 37,
         "firstNightReminder": "Show the character tokens of all in-play Outsiders.",
-        "otherNight": 56.5,
+        "otherNight": 56,
         "otherNightReminder": "If an Outsider died today, the Godfather chooses a player. :reminder:",
         "reminders": [
             "Died Today",
