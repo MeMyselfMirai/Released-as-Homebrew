@@ -2740,7 +2740,24 @@
         "ability": "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated.",
         "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
     },
-    "ojo",
+    {
+        "id": "ojo_rah",
+        "name": "Ojo",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/ojo_e-BwP-O6LJ.webp",
+            "https://botc.app/assets/ojo_g-jY2iz8BT.webp"
+        ],
+        "team": "demon",
+        "otherNight": 49,
+        "otherNightReminder": "The Ojo chooses a character. :reminder: ",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.",
+        "flavor": "Like a bonfire on a moonless night… I see you, mortal."
+    },
     "kazali",
     "po",
     "zombuul",

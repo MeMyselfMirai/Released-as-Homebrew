@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Ojo
 * Kazali
 * Po
 * Zombuul
@@ -211,7 +210,7 @@ The following is a full list of night order. This is so night order numbers can 
 * Vortox
 * Lord of Typhon
 * Vigormortis
-* Ojo
+* 49 - $${\color{darkred}Ojo}$$
 * Al-Hadikhia
 * Lleech
 * 52 - $${\color{darkred}Lil' Monsta}$$
@@ -279,6 +278,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.135.0
+* Ojo
 ### 0.134.0
 * Shabaloth
 ### 0.133.0
