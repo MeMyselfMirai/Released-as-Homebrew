@@ -270,6 +270,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.141.1
+* Plague Doctor classic grognard
 ### 0.141.0
 * Legion
 ### 0.140.1
