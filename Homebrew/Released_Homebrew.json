@@ -2842,7 +2842,30 @@
         "ability": "Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbor. [-1 Outsider]",
         "flavor": "All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."
     },
-    "vortox",
+    {
+        "id": "vortox_rah",
+        "name": "Vortox",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/vortox_e-CI-Cd8aG.webp",
+            "https://botc.app/assets/vortox_g-w20-Mdd8.webp"
+        ],
+        "team": "demon",
+        "otherNight": 46,
+        "otherNightReminder": "The Vortox chooses a player. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.",
+        "flavor": "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find.",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "If the Vortox kills the Banshee, all players learn that the Banshee has died."
+            }
+        ]
+    },
     "legion",
     "fanggu",
     "lordoftyphon",

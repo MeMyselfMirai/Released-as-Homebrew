@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Vortox
 * Legion
 * Fang Gu
 * Lord of Typhon
@@ -203,7 +202,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 43 - $${\color{darkred}Po}$$
 * Fang Gu
 * 45 - $${\color{darkred}No Dashii}$$
-* Vortox
+* 46 - $${\color{darkred}Vortox}$$
 * Lord of Typhon
 * 48 - $${\color{darkred}Vigormortis}$$
 * 49 - $${\color{darkred}Ojo}$$
@@ -270,10 +269,13 @@ The following is a full list of night order. This is so night order numbers can 
     * "magician": Character token does not appear in Demon Info.
     * "banshee": Raising more than one hand is not available.
     * "cannibal", "philosopher", "pixie": Ability gaining reminder tokens do not show the seat on the night order.
+    * "vortox": Global ST notes, such as "Townsfolk abilities yield false information", is not available.
     * "atheist": Global duplicate characters is not available.
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.140.0
+* Vortox
 ### 0.139.0
 * Vigormortis
 ### 0.138.0

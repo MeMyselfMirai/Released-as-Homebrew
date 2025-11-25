@@ -7,7 +7,7 @@
         "almanac": "https://wiki.bloodontheclocktower.com/Sects_%26_Violets",
         "hideTitle": true,
         "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","philosopher_snv","snakecharmer_snv","eviltwin_snv","witch_snv","cerenovus_snv","clockmaker_snv","dreamer_snv","seamstress_snv","mathematician_snv","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch_snv","cerenovus_snv","pithag_snv","fanggu","vigormortis_snv","nodashii_snv","vortox","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","philosopher_snv","snakecharmer_snv","witch_snv","cerenovus_snv","pithag_snv","fanggu","vigormortis_snv","nodashii_snv","vortox_snv","tor","barber_snv","sweetheart_snv","sage_snv","dreamer_snv","flowergirl_snv","towncrier_snv","oracle_snv","seamstress_snv","juggler_snv","mathematician_snv","dawn"]
     },
     {
         "id": "clockmaker_snv",
@@ -483,7 +483,30 @@
         "ability": "Each night*, choose a player: they die. Your 2 Townsfolk neighbors are poisoned.",
         "flavor": "By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."
     },
-    "vortox",
+    {
+        "id": "vortox_snv",
+        "name": "Vortox",
+        "edition": "snv",
+        "image": [
+            "https://botc.app/assets/vortox_e-CI-Cd8aG.webp",
+            "https://botc.app/assets/vortox_g-w20-Mdd8.webp"
+        ],
+        "team": "demon",
+        "otherNight": 46,
+        "otherNightReminder": "The Vortox chooses a player. :reminder:",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.",
+        "flavor": "Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find.",
+        "jinxes": [
+            {
+                "id": "banshee",
+                "reason": "If the Vortox kills the Banshee, all players learn that the Banshee has died."
+            }
+        ]
+    },
     "barista",
     "harlot",
     "butcher",
