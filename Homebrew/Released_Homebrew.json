@@ -3301,7 +3301,20 @@
         "ability": "Each day, choose a player: a different player changes character tonight.",
         "flavor": "Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"
     },
-    "gunslinger",
+    {
+        "id": "gunslinger_rah",
+        "name": "Gunslinger",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/gunslinger-wipgFlby.webp",
+            "https://botc.app/assets/gunslinger_g-CKzyQCHC.webp",
+            "https://botc.app/assets/gunslinger_e-DCPdRPrm.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "Each day, after the 1st vote has been tallied, you may choose a player that voted: they die.",
+        "flavor": "It's time someone took matters into their own hands. That someone... is me."
+    },
     "matron",
     "gangster",
     "bonecollector",
