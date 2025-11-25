@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Zombuul
 * Vigormortis
 * Vortox
 * Legion
@@ -199,7 +198,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 37 - $${\color{deepskyblue}Princess}$$
 * Legion
 * 39 - $${\color{darkred}Imp}$$
-* Zombuul
+* 40 - $${\color{darkred}Zombuul}$$
 * 41 - $${\color{darkred}Pukka}$$
 * 42 - $${\color{darkred}Shabaloth}$$
 * 43 - $${\color{darkred}Po}$$
@@ -276,6 +275,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.138.0
+* Zombuul
 ### 0.137.0
 * Po
 ### 0.136.0
