@@ -2376,7 +2376,26 @@
         "ability": "If you publicly claim to be the Goblin when nominated & are executed that day, your team wins.",
         "flavor": "You don’t want to insult the goblins. You really, really don’t. On a completely different note… can I have another piece of cake?"
     },
-    "boomdandy",
+    {
+        "id": "boomdandy_rah",
+        "name": "Boomdandy",
+        "edition": "carousel",
+        "image": [
+            "https://botc.app/assets/boomdandy_e-S13eahkU.webp",
+            "https://botc.app/assets/boomdandy_g-DOTwgB8d.webp"
+        ],
+        "team": "minion",
+        "setup": false,
+        "ability": "If you are executed, all but 3 players die. After a 10 to 1 countdown, the player with the most players pointing at them, dies.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "day"
+            }
+        ],
+        "flavor": "Tick... Tick... Tick... TOCK."
+    },
     "mastermind",
     "scarletwoman",
     "vizier",
