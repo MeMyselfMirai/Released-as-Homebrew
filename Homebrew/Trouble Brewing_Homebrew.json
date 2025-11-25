@@ -7,7 +7,7 @@
         "almanac": "https://wiki.bloodontheclocktower.com/Trouble_Brewing",
         "hideTitle": true,
         "firstNight": ["dusk","angel","buddhist","toymaker","stormcatcher","bureaucrat","thief","apprentice","barista","minioninfo","demoninfo","poisoner_tb","spy_tb","washerwoman_tb","librarian_tb","investigator_tb","chef_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"],
-        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","poisoner_tb","monk_tb","spy_tb","scarletwoman_tb","imp","tor","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
+        "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","poisoner_tb","monk_tb","spy_tb","scarletwoman_tb","imp_tb","tor","ravenkeeper_tb","undertaker_tb","empath_tb","fortuneteller_tb","butler_tb","dawn"]
     },
     {
         "id": "washerwoman_tb",
@@ -414,7 +414,24 @@
         "ability": "There are extra Outsiders in play. [+2 Outsiders]",
         "flavor": "This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"
     },
-    "imp",
+    {
+        "id": "imp_tb",
+        "name": "Imp",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/imp_e-DNpveOPY.webp",
+            "https://botc.app/assets/imp_g-D-G7pJEY.webp"
+        ],
+        "team": "demon",
+        "otherNight": 39,
+        "otherNightReminder": "The Imp chooses a player. :reminder: If the Imp chose themselves: Replace 1 alive Minion token with a spare Imp token. Put the old Imp to sleep. Wake the new Imp. Show the *YOU ARE* token, then show the Imp token.",
+        "reminders": [
+            "Dead"
+        ],
+        "setup": false,
+        "ability": "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.",
+        "flavor": "We must keep our wits sharp and our sword sharper. Evil walks among us, and will stop at nothing to destroy us good, simple folk, bringing our fine town to ruin. Trust no-one. But, if you must trust someone, trust me."
+    },
     "bureaucrat",
     "thief",
     "gunslinger",

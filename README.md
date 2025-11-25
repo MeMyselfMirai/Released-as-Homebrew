@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Imp
 * Shabaloth
 * Ojo
 * Kazali
@@ -203,7 +202,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 36 - $${\color{deepskyblue}Lycanthrope}$$
 * 37 - $${\color{deepskyblue}Princess}$$
 * Legion
-* Imp
+* 39 - $${\color{darkred}Imp}$$
 * Zombuul
 * 41 - $${\color{darkred}Pukka}$$
 * Shabaloth
@@ -281,6 +280,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Bootlegger rules do not appear (for a Homebrew bootlegger).
 
 ## Changelog
+### 0.133.0
+* Imp
 ### 0.132.0
 * No Dashii
 ### 0.131.0
