@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Apprentice
 * Beggar
 * Deviant
 * Scapegoat
@@ -66,7 +65,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 6 - $${\color{darkred}Wraith}$$
 * 7 - $${\color{darkred}Lord of Typhon}$$
 * 8 - $${\color{darkred}Kazali}$$
-* Apprentice
+* 9 - $${\color{fuschia}Apprentice}$$
 * 10 - $${\color{fuschia}Barista}$$
 * 11 - $${\color{fuschia}Bureaucrat}$$
 * 12 - $${\color{fuschia}Thief}$$
@@ -254,6 +253,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.158.0
+* Apprentice
 ### 0.157.0
 * Judge
 ### 0.156.0

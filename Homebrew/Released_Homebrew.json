@@ -3380,7 +3380,32 @@
         "ability": "Once per game, if another player nominated, you may choose to force the current execution to pass or fail.",
         "flavor": "I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."
     },
-    "apprentice",
+    {
+        "id": "apprentice_rah",
+        "name": "Apprentice",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/apprentice-Dq5aGiYi.webp",
+            "https://botc.app/assets/apprentice_g-qVS2q4bN.webp",
+            "https://botc.app/assets/apprentice_e-BEpvFWvS.webp"
+        ],
+        "team": "traveller",
+        "firstNight": 9.5,
+        "firstNightReminder": "Show the Apprentice the *YOU ARE* card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's *IS THE APPRENTICE* reminder by that character token.",
+        "reminders": [
+            "Is The Apprentice"
+        ],
+        "setup": false,
+        "ability": "On your 1st night, you gain a Townsfolk ability (if good), or a Minion ability (if evil).",
+        "flavor": "For years have I traveled, studying the ways of The Craft. Which craft, you ask? Simply that of the simple folk. Nothing to worry about. Not yet.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ]
+    },
     "beggar",
     "deviant",
     "scapegoat",

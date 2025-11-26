@@ -6,7 +6,7 @@
         "background": "https://botc.app/assets/background5-C8rPTCyH.webp",
         "almanac": "https://wiki.bloodontheclocktower.com/Bad_Moon_Rising",
         "hideTitle": true,
-        "firstNight": ["dusk", "angel", "buddhist", "toymaker", "stormcatcher", "bureaucrat", "thief", "apprentice", "barista", "minioninfo", "lunatic_bmr", "demoninfo", "sailor_bmr", "courtier_bmr", "godfather_bmr", "devilsadvocate_bmr", "pukka_bmr", "grandmother_bmr", "chambermaid_bmr", "dawn"],
+        "firstNight": ["dusk", "angel", "buddhist", "toymaker", "stormcatcher", "bureaucrat", "thief", "apprentice_bmr", "barista", "minioninfo", "lunatic_bmr", "demoninfo", "sailor_bmr", "courtier_bmr", "godfather_bmr", "devilsadvocate_bmr", "pukka_bmr", "grandmother_bmr", "chambermaid_bmr", "dawn"],
         "otherNight": ["dusk","duchess","toymaker","bureaucrat","thief","barista","bonecollector","harlot","sailor_bmr","innkeeper_bmr","courtier_bmr","gambler_bmr","devilsadvocate_bmr","lunatic_bmr","exorcist_bmr","zombuul_bmr","pukka_bmr","shabaloth_bmr","po_bmr","assassin_bmr","godfather_bmr","professor_bmr","gossip_bmr","tinker_bmr","moonchild_bmr","grandmother_bmr","tor","chambermaid_bmr","dawn"]
     },
     {
@@ -480,7 +480,32 @@
         "ability": "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight.",
         "flavor": "Would you like a flower? I'm so lonely."
     },
-    "apprentice",
+    {
+        "id": "apprentice_bmr",
+        "name": "Apprentice",
+        "edition": "bmr",
+        "image": [
+            "https://botc.app/assets/apprentice-Dq5aGiYi.webp",
+            "https://botc.app/assets/apprentice_g-qVS2q4bN.webp",
+            "https://botc.app/assets/apprentice_e-BEpvFWvS.webp"
+        ],
+        "team": "traveller",
+        "firstNight": 9.5,
+        "firstNightReminder": "Show the Apprentice the *YOU ARE* card, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and put the Apprentice's *IS THE APPRENTICE* reminder by that character token.",
+        "reminders": [
+            "Is The Apprentice"
+        ],
+        "setup": false,
+        "ability": "On your 1st night, you gain a Townsfolk ability (if good), or a Minion ability (if evil).",
+        "flavor": "For years have I traveled, studying the ways of The Craft. Which craft, you ask? Simply that of the simple folk. Nothing to worry about. Not yet.",
+        "special": [
+            {
+                "name": "grimoire",
+                "type": "signal",
+                "time": "night"
+            }
+        ]
+    },
     {
         "id": "matron_bmr",
         "name": "Matron",
