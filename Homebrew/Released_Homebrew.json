@@ -3434,7 +3434,20 @@
         "ability": "If you were funny today, you cannot die by exile.",
         "flavor": "Twas the lady's quip, forsooth."
     },
-    "scapegoat",
+    {
+        "id": "scapegoat_rah",
+        "name": "Scapegoat",
+        "edition": "tb",
+        "image": [
+            "https://botc.app/assets/scapegoat-rhlm_MDq.webp",
+            "https://botc.app/assets/scapegoat_g-CrL8fHff.webp",
+            "https://botc.app/assets/scapegoat_e-BFRtmmYo.webp"
+        ],
+        "team": "traveller",
+        "setup": false,
+        "ability": "If a player of your alignment is executed, you might be executed instead.",
+        "flavor": "Good evening! Thank you for inviting me to the ball. I'm not from around here, but you sure seem like a friendly bunch, by golly. I'm sure we'll get along just dandy. What's all that rope for?"
+    },
     "gnome",
     "bishop",
     "voudon",
