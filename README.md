@@ -246,6 +246,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.168.1
+* Zenomancer data correction
 ### 0.168.0
 * Big Wig
 ### 0.167.0
