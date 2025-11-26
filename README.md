@@ -230,6 +230,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.183.6
+* Cacklejack id update
 ### 0.183.5
 * Secret character preview update
 ### 0.183.4
