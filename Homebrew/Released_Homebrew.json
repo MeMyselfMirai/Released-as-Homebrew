@@ -3621,7 +3621,25 @@
         "ability": "Once per game, 1 good player might get incorrect information.",
         "flavor": "Tee-hee-hee. Tee. Hee. Hee."
     },
-    "fiddler",
+    {
+        "id": "fiddler_rah",
+        "name": "Fiddler",
+        "edition": "fabled",
+        "image": [
+            "https://botc.app/assets/fiddler-DlAFGPhN.webp"
+        ],
+        "team": "fabled",
+        "setup": false,
+        "ability": "Once per game, the Demon secretly chooses an opposing player: all players choose which of these 2 players win.",
+        "flavor": "I'll wager mi lyef ye cannae best me in a fiddle contest, ye boss-eyed snook! We'll go out on the lash, get the pub jammers an' have a right craic. I'll be layin' ma boots into ya come mornin' ye rumbly muppet.",
+        "special": [
+            {
+                "name": "pointing",
+                "type": "ability",
+                "time": "day"
+            }
+        ]
+    },
     "ferryman",
     "doomsayer",
     "spiritofivory",
