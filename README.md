@@ -23,7 +23,6 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 * For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
 
 ## Unfinished Characters
-* Duchess
 * Fibbin
 * Fiddler
 * Ferryman
@@ -129,7 +128,7 @@ The following is a full list of night order. This is so night order numbers can 
 
 ### Other Nights Order
 * Dusk
-* Duchess
+* 2 - $${\color{goldenrod}Duchess}$$
 * Toymaker
 * 4 - $${\color{darkred}Wraith}$$
 * 5 - $${\color{fuschia}Barista}$$
@@ -246,6 +245,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.169.0
+* Duchess
 ### 0.168.1
 * Zenomancer data correction
 ### 0.168.0
