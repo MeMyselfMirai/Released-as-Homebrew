@@ -24,6 +24,9 @@ A copy of the full character list and released scripts are included for referenc
 ## Old Versions
 A copy of older versions of characters are included for grognards.
 
+## Special Characters
+Some characters cannot be modeled properly due to app code restrictions or automatic duplication are included separately.
+
 ## Night Order Reference
 The following is a full list of night order. This is so night order numbers can be recreated as best as possible without having to constantly reload the released characters with Travellers. Base 3 night orders no longer match; recreated Base 3 scripts are included for reference.
 
@@ -228,6 +231,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.182.0
+* The Big Barnacle
 ### 0.181.1
 * Online app bug documentation correction
 ### 0.181.0
