@@ -3777,6 +3777,20 @@
         "ability": "Something bad might happen to whoever is most responsible for the death of a new player.",
         "flavor": "Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."
     },
-    "deusexfiasco",
+    {
+        "id": "deusexfiasco_rah",
+        "name": "Deus ex Fiasco RAH",
+        "edition": "fabled",
+        "image": [
+            "https://botc.app/assets/deusexfiasco-C-oc4vaU.webp"
+        ],
+        "team": "fabled",
+        "reminders": [
+            "Whoopsie"
+        ],
+        "setup": true,
+        "ability": "At least once per game, the Storyteller will make a mistake, correct it, and publicly admit to it.",
+        "flavor": "It's not a bug, it's a feature. It's not an error, it's a tweak. It's not broken, it's quirky."
+    },
     "revolutionary"
 ]
