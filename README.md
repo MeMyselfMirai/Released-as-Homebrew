@@ -238,6 +238,8 @@ The following is a full list of night order. This is so night order numbers can 
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.176.1
+* Apprentice night order correction
 ### 0.176.0
 * Toymaker
 ### 0.175.0
