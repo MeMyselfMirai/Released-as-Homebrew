@@ -22,10 +22,10 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 A copy of the full character list and released scripts are included for reference; files downloaded directly from the online app are included as well.
 
 ## Grognard Versions
-A copy of older versions of characters are included for grognards.
+A copy of older versions of characters are included for grognards. Feel free to use the GrayPockets [Grognard](https://www.graypockets.com/Grognard) Fabled along with them.
 
 ## Secret Characters
-Some characters that have been announced but not released are included separately.
+Some characters that have been announced but not released are included separately. Feel free to use the GrayPockets [Steamfitter](https://www.graypockets.com/Steamfitter) Fabled along with them.
 
 ## Special Characters
 Some characters that cannot be modeled properly due to app code restrictions or automatic duplication are included separately.
@@ -236,6 +236,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * Many of these are covered by this post: https://discord.com/channels/1011236067560669234/1398305364516012146
 
 ## Changelog
+### 0.187.4
+* Remove GrayPockets Fabled
 ### 0.187.3
 * Bad Moon Rising night order correction
 ### 0.187.2

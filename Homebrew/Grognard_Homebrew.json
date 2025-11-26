@@ -2139,16 +2139,5 @@
         "setup": false,
         "ability": "Name a good character. If in play, they can only die by execution, but evil players learn which player it is.",
         "flavor": "At dawn, the temple’s long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
-    },
-    {
-        "id": "grognard",
-        "name": "Grognard",
-        "image": [
-            "https://www.graypockets.com/grognard.png"
-        ],
-        "team": "fabled",
-        "setup": false,
-        "ability": "This script uses out-of-date characters or jinxes.",
-        "flavor": "It's an older Djinn rule sir, but it checks out."
     }
 ]
