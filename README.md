@@ -236,6 +236,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * Many of these are covered by this post: https://discord.com/channels/1011236067560669234/1398305364516012146
 
 ## Changelog
+### 0.187.1
+* The Big Barnacle correction
 ### 0.187.0
 * Generic characters
 ### 0.186.2
