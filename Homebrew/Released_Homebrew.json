@@ -3671,7 +3671,21 @@
         "ability": "If 4 or more players live, each living player may publicly choose (once per game) that a player of their own alignment dies.",
         "flavor": "And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."
     },
-    "spiritofivory",
+    {
+        "id": "spiritofivory_rah",
+        "name": "Spirit of Ivory",
+        "edition": "fabled",
+        "image": [
+            "https://botc.app/assets/spiritofivory-8gBtDAQc.webp"
+        ],
+        "team": "fabled",
+        "reminders": [
+            "No More Evil"
+        ],
+        "setup": false,
+        "ability": "There can't be more than 1 extra evil player.",
+        "flavor": "The Wasteland calls. Bones rise to flesh, then fall to dust. The great spirit grows. The great spirit watches. The great spirit guides. The human listens, or the human is no more."
+    },
     "sentinel",
     "toymaker",
     "djinn",
