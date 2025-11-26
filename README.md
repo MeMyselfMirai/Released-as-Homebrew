@@ -27,11 +27,14 @@ A copy of older versions of characters are included for grognards.
 ## Secret Characters
 Some characters that have been announced but not released are included separately.
 
+## Special Characters
+Some characters that cannot be modeled properly due to app code restrictions or automatic duplication are included separately.
+
 ## Night Order Reference
 The following is a full list of night order. This is so night order numbers can be recreated as best as possible without having to constantly reload the released characters with Travellers. Base 3 night orders no longer match; recreated Base 3 scripts are included for reference.
 
 ### First Night Order
-* Dusk
+* 1 - $${\color{black}Dusk}$$
 * 2 - $${\color{goldenrod}Angel}$$
 * 3 - $${\color{goldenrod}Buddhist}$$
 * 4 - $${\color{goldenrod}Toymaker}$$
@@ -112,7 +115,7 @@ The following is a full list of night order. This is so night order numbers can 
 * 79 - $${\color{darkred}Vizier}$$
 
 ### Other Nights Order
-* Dusk
+* 1 - $${\color{black}Dusk}$$
 * 2 - $${\color{goldenrod}Duchess}$$
 * 3 - $${\color{goldenrod}Toymaker}$$
 * 4 - $${\color{darkred}Wraith}$$
@@ -230,6 +233,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.183.0
+* Dusk
 ### 0.182.7
 * Changelog correction
 ### 0.182.6

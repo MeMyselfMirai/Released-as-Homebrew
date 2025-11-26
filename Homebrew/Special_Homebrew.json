@@ -1,0 +1,21 @@
+[
+    {
+        "id": "_meta",
+        "author": "GrayPockets",
+        "name": "Special as Homebrew",
+        "almanac": "https://github.com/GrayPockets/Released-as-Homebrew"
+    },
+    {
+        "id": "dusk_sah",
+        "name": "Dusk",
+        "edition": "special",
+        "image": [
+            "https://botc.app/assets/dusk-CLdDXnQC.webp"
+        ],
+        "team": "fabled",
+        "firstNight": 1,
+        "firstNightReminder": "Start the Night Phase.",
+        "setup": false,
+        "ability": "Starts the Night Phase."
+    }
+]
