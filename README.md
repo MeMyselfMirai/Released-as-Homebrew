@@ -1,34 +1,30 @@
 # Released as Homebrew
 
+
+![Static Badge](https://img.shields.io/badge/Online%20App%20Compatibility-3.48.0-8A2BE2)
+
 ## Description
-Recreating every released Blood on the Clocktower character in homebrew format. This will allow script-builders to recreate these characters to make changes to them such as custom jinxes, allowing duplicates tokens, ability modifications, or other changes that might match a Bootlegger modification.
+Recreations of every released Blood on the Clocktower character in homebrew format without any modifications.
 
-This will attempt to fully match the released versions of characters without any modifications. Note that a homebrew character cannot use the exact id of a released character without being overridden within the app, so "_rah" is appended to each character id.
+This is a reference for homebrew script builders to learn from examples in order to make their own characters. In some instances, it can be useful to make changes to released characters such as adding homebrew jinxes, allowing duplicates tokens, putting in extra reminder tokens, or other changes that might match a Bootlegger rule.
 
-Jinxes on these recreated characters do not use the "_rah" id. These recreations can be used individually on a script. If two recreated homebrew characters on the same script share a jinx, the "_rah" will need to be appended to the id within the jinx.
+### [Released as Homebrew JSON](Homebrew/Released_Homebrew.json)
 
-## BOTC Online App Compatibility
-**3.48.0 - The app update from outer space**
+:warning: Homebrew characters cannot use the exact id of a released character without being overridden within the app with the original character. To allow these homebrew characters to be loaded, a "_rah" tag is appended to each character id.
 
-## Git Expectations
-* Update the README changelog for each commit.
-* Commit messages are [Conventional Commits](https://conventionalcommits.org/) all lowercase.
-* Tags are [SemVer](https://semver.org/) with no message.
-* Github release descriptions match the changelog.
-* Commits are required to be squashed and submitted via pull-request.
-* Try to keep pull-requests to one concept at a time, such as a fix for a single character, even if the fix that effect multiple files.
+:warning: Jinxes on these recreated characters do *not* use the "_rah" tag. The purpose is for each character to be able to be placed on another script individually. If two recreated homebrew characters are placed on the same script and share a jinx, the "_rah" tag will need to be appended to the id within the jinx.
 
-## Originals
-A copy of the full character list and released scripts are included for reference; files downloaded directly from the online app are included as well.
+### [Original Character JSON](Original/Released.json)
+Original full character list and released scripts are included for reference; files downloaded directly from the online app are included as well.
 
-## Grognard Versions
-A copy of older versions of characters are included for grognards. Feel free to use the GrayPockets [Grognard](https://www.graypockets.com/Grognard) Fabled along with them.
+### [Grognard Character JSON](Homebrew/Grognard_Homebrew.json)
+These are older versions of characters included for grognards. Feel free to use the GrayPockets [Grognard](https://www.graypockets.com/Grognard) Fabled along with them.
 
-## Secret Characters
-Some characters that have been announced but not released are included separately. Feel free to use the GrayPockets [Steamfitter](https://www.graypockets.com/Steamfitter) Fabled along with them.
+### [Secret Character JSON](Homebrew/Secret_Homebrew.json)
+These characters have been announced but not released. Feel free to use the GrayPockets [Steamfitter](https://www.graypockets.com/Steamfitter) Fabled along with them.
 
-## Special Characters
-Some characters that cannot be modeled properly due to app code restrictions or automatic duplication are included separately.
+### [Special Character JSON](Homebrew/Special_Homebrew.json)
+These characters cannot be modeled properly due to app code restrictions or automatic duplication.
 
 ## Night Order Reference
 The following is a full list of night order. This is so night order numbers can be recreated as best as possible without having to constantly reload the released characters with Travellers. Base 3 night orders no longer match; recreated Base 3 scripts are included for reference.
@@ -235,7 +231,17 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * "dawn", "minioninfo", "demoninfo", "dusk": Cannot modify the instruction text: https://discord.com/channels/1011236067560669234/1410705219364585614
 * Many of these are covered by this post: https://discord.com/channels/1011236067560669234/1398305364516012146
 
+## Git Expectations
+* Update the README changelog for each commit.
+* Commit messages are [Conventional Commits](https://conventionalcommits.org/) all lowercase.
+* Tags are [SemVer](https://semver.org/) with no message.
+* Github release descriptions match the changelog.
+* Commits are required to be squashed and submitted via pull-request.
+* Try to keep pull-requests to one concept at a time, such as a fix for a single character, even if the fix that effect multiple files.
+
 ## Changelog
+### 0.187.7
+* Documentation update
 ### 0.187.6
 * Online app missing features documentation correction
 ### 0.187.5
