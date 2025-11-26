@@ -3792,5 +3792,21 @@
         "ability": "At least once per game, the Storyteller will make a mistake, correct it, and publicly admit to it.",
         "flavor": "It's not a bug, it's a feature. It's not an error, it's a tweak. It's not broken, it's quirky."
     },
-    "revolutionary"
+    {
+        "id": "revolutionary_rah",
+        "name": "Revolutionary",
+        "edition": "fabled",
+        "image": [
+            "https://botc.app/assets/revolutionary-D1FL8eUK.webp"
+        ],
+        "team": "fabled",
+        "reminders": [
+            "Register Falsely?",
+            "Aligned",
+            "Aligned"
+        ],
+        "setup": false,
+        "ability": "2 neighboring players are known to be the same alignment. Once per game, 1 of them registers falsely.",
+        "flavor": "United we feigned. Divided, we stalled."
+    }
 ]

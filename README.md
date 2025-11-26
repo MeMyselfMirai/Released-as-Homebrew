@@ -11,19 +11,12 @@ Jinxes on these recreated characters do not use the "_rah" id. These recreations
 **3.48.0 - The app update from outer space**
 
 ## Git Expectations
-* Update the README changelog and character lists for each commit.
+* Update the README changelog for each commit.
 * Commit messages are [Conventional Commits](https://conventionalcommits.org/) all lowercase.
 * Tags are [SemVer](https://semver.org/) with no message.
 * Github release descriptions match the changelog.
 * Commits are required to be squashed and submitted via pull-request.
-* One character updated per pull-request, unless it is an app compatilibity update.
-* If the character appears on a released script, include the change on that script as well.
-
-### Character Testing
-* For new unfinished characters, test by adding the homebrew recreation using the Released.json. This will insure that night order and jinxes are consistent.
-
-## Unfinished Characters
-* Revolutionary
+* Try to keep pull-requests to one concept at a time, such as a fix for a single character, even if the fix that effect multiple files.
 
 ## Originals
 A copy of the full character list and released scripts are included for reference; files downloaded directly from the online app are included as well.
@@ -231,9 +224,13 @@ The following is a full list of night order. This is so night order numbers can 
     * "atheist": Global duplicate characters is not available.
     * "tor": Blind start is not available.
     * "bigwig": Defense attorny is not available.
+    * "revolutionary": Aligned character protection is not available.
     * "bootlegger": Making your own lists for Fabled to display is not avaialable.
 
 ## Changelog
+### 0.181.0
+* Revolutionary
+* Documentation update
 ### 0.180.0
 * Deus Ex Fiasco
 ### 0.179.0
