@@ -3640,7 +3640,25 @@
             }
         ]
     },
-    "ferryman",
+    {
+        "id": "ferryman_rah",
+        "name": "Ferryman",
+        "edition": "fabled",
+        "image": [
+            "https://botc.app/assets/ferryman-B8DIdDH1.webp"
+        ],
+        "team": "fabled",
+        "setup": false,
+        "ability": "On the final day, all dead players regain their vote token.",
+        "flavor": "When righteous dreams come, they have the weight of truth.",
+        "special": [
+            {
+                "name": "ghost-votes",
+                "type": "ability",
+                "time": "day"
+            }
+        ]
+    },
     "doomsayer",
     "spiritofivory",
     "sentinel",
