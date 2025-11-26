@@ -29,7 +29,7 @@
         "team": "outsider",
         "setup": false,
         "ability": "You are an Outsider.",
-        "flavor": "I confirmed by Outsider count."
+        "flavor": "I am confirmed by Outsider count."
     },
     {
         "id": "minion_sah",
@@ -42,7 +42,7 @@
         "team": "minion",
         "setup": false,
         "ability": "You are an Minion.",
-        "flavor": "I confirmed by Outsider count."
+        "flavor": "I am confirmed by Outsider count."
     },
     {
         "id": "demon_sah",

@@ -236,6 +236,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * Many of these are covered by this post: https://discord.com/channels/1011236067560669234/1398305364516012146
 
 ## Changelog
+### 0.187.5
+* Special homebrew grammar
 ### 0.187.4
 * Remove GrayPockets Fabled
 ### 0.187.3
