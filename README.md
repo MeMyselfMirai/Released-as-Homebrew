@@ -214,12 +214,12 @@ The following is a full list of night order. This is so night order numbers can 
 * 96 - $${\color{black}Dawn}$$
 * 97 - $${\color{darkred}Leviathan}$$
 
-# Open Online app missing features
+# Online app missing features
 Certain online app functionalities are hard-coded to character ids, and cannot be replicated with homebrew characters.
 * Character almanac links are not supported: https://discord.com/channels/1011236067560669234/1402062909374201936
 * "alchemist" / "marionette": Token replacement reminders do not change character alignment.
 * Demon Info, Minion Info, and other character type special effects are unable to be called upon: https://discord.com/channels/1011236067560669234/1383723585386057788
-   * "alchemist": Token replacement reminders do not change character types for the purpose of Minion Info.
+    * "alchemist": Token replacement reminders do not change character types for the purpose of Minion Info.
     * "alchemist": Token replacement reminders do not change character types for the purpose of Lil' Monsta choices.
     * "magician": Character token does not appear in Minion Info.
     * "magician": Character token does not appear in Demon Info.
@@ -236,6 +236,8 @@ Certain online app functionalities are hard-coded to character ids, and cannot b
 * Many of these are covered by this post: https://discord.com/channels/1011236067560669234/1398305364516012146
 
 ## Changelog
+### 0.187.6
+* Online app missing features documentation correction
 ### 0.187.5
 * Special homebrew grammar
 ### 0.187.4
