@@ -36,8 +36,8 @@
         ]
     },
     {
-        "id": "balloonist_gah",
-        "name": "Balloonist (Classic)",
+        "id": "balloonist_gah_20240627",
+        "name": "Balloonist",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/balloonist_g-Dlfqy_E5.webp",
@@ -94,8 +94,8 @@
         ]
     },
     {
-        "id": "king_gah",
-        "name": "King (Classic)",
+        "id": "king_gah_20240515",
+        "name": "King",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/king_g-CEMQO7k3.webp",
@@ -111,8 +111,8 @@
         "flavor": "Betwixt the unknown strains of mortal strife / And morbid night, sweet with mystery and woe / Lies unfettered joys of fate’s long and colored life / Who’s garden blooms with each painted Face to Show."
     },
     {
-        "id": "lycanthrope_gah1",
-        "name": "Lycanthrope (Classic)",
+        "id": "lycanthrope_gah_20241102",
+        "name": "Lycanthrope",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/lycanthrope_g-BGOyDOkb.webp",
@@ -135,8 +135,8 @@
         ]
     },
     {
-        "id": "lycanthrope_gah2",
-        "name": "Lycanthrope (Original)",
+        "id": "lycanthrope_gah_20231013",
+        "name": "Lycanthrope",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/lycanthrope_g-BGOyDOkb.webp",
@@ -159,8 +159,8 @@
         ]
     },
     {
-        "id": "alsaahir_gah",
-        "name": "Alsaahir (Classic)",
+        "id": "alsaahir_gah_20241110",
+        "name": "Alsaahir",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/alsaahir_g-CpjMnnMq.webp",
@@ -172,8 +172,8 @@
         "flavor": "I am here because of you, and you are here because of me."
     },
     {
-        "id": "nightwatchman_gah",
-        "name": "Nightwatchman (Classic)",
+        "id": "nightwatchman_gah_20241110",
+        "name": "Nightwatchman",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/nightwatchman_g-CaasqmRn.webp",
@@ -288,8 +288,8 @@
         ]
     },
     {
-        "id": "alchemist_gah3",
-        "name": "Alchemist (Classic)",
+        "id": "alchemist_gah_20241206",
+        "name": "Alchemist",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/alchemist_g-DtcrLn7_.webp",
@@ -377,8 +377,8 @@
         ]
     },
     {
-        "id": "farmer_gah",
-        "name": "Farmer (Classic)",
+        "id": "farmer_gah_20241110",
+        "name": "Farmer",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/farmer_g-aC9H7ek9.webp",
@@ -504,8 +504,8 @@
         ]
     },
     {
-        "id": "plaguedoctor_gah2",
-        "name": "Plague Doctor (Classic)",
+        "id": "plaguedoctor_gah_20241110",
+        "name": "Plague Doctor",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/plaguedoctor_g-DUqDeP9l.webp",
@@ -560,8 +560,8 @@
         ]
     },
     {
-        "id": "plaguedoctor_gah3",
-        "name": "Plague Doctor (Original)",
+        "id": "plaguedoctor_gah_20240627",
+        "name": "Plague Doctor",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/plaguedoctor_g-DUqDeP9l.webp",
@@ -616,8 +616,8 @@
         ]
     },
     {
-        "id": "acrobat_gah",
-        "name": "Acrobat (Classic)",
+        "id": "acrobat_gah_20241018",
+        "name": "Acrobat",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/acrobat_g-ClaB0uN4.webp",
@@ -634,8 +634,8 @@
         "flavor": "Welcome, one and all, to the greatest show on earth."
     },
     {
-        "id": "damsel_gah",
-        "name": "Damsel (Classic)",
+        "id": "damsel_gah_20241110",
+        "name": "Damsel",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/damsel_g-NwMWC09c.webp",
@@ -654,8 +654,8 @@
         "flavor": "Don't touch the hair, honey."
     },
     {
-        "id": "snitch_gah",
-        "name": "Snitch (Classic)",
+        "id": "snitch_gah_20241110",
+        "name": "Snitch",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/snitch_g-D_RNpbcY.webp",
@@ -750,8 +750,8 @@
         ]
     },
     {
-        "id": "harpy_gah",
-        "name": "Harpy (Classic)",
+        "id": "harpy_gah_20240627",
+        "name": "Harpy",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/harpy_e-ChKTPCeL.webp",
@@ -807,8 +807,8 @@
         ]
     },
     {
-        "id": "widow_gah2",
-        "name": "Widow (Classic)",
+        "id": "widow_gah_20250303",
+        "name": "Widow",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/widow_e-DGFTy37y.webp",
@@ -1069,8 +1069,8 @@
         ]
     },
     {
-        "id": "boomdandy_gah",
-        "name": "Boomdandy (Classic)",
+        "id": "boomdandy_gah_20241102",
+        "name": "Boomdandy",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/boomdandy_e-S13eahkU.webp",
@@ -1162,8 +1162,8 @@
         ]
     },
     {
-        "id": "vizier_gah2",
-        "name": "Vizier (Classic)",
+        "id": "vizier_gah_20241110",
+        "name": "Vizier",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/vizier_e-CR5iBAo1.webp",
@@ -1207,8 +1207,8 @@
         ]
     },
     {
-        "id": "organgrinder_gah1",
-        "name": "Organ Grinder (Classic)",
+        "id": "organgrinder_gah_20250124",
+        "name": "Organ Grinder",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/organgrinder_e-EGmGGCZJ.webp",
@@ -1234,8 +1234,8 @@
         ]
     },
     {
-        "id": "organgrinder_gah2",
-        "name": "Organ Grinder (Original)",
+        "id": "organgrinder_gah_20241018",
+        "name": "Organ Grinder",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/organgrinder_e-EGmGGCZJ.webp",
@@ -1428,8 +1428,8 @@
         ]
     },
     {
-        "id": "lilmonsta_gah3",
-        "name": "Lil' Monsta (Classic)",
+        "id": "lilmonsta_gah_20250303",
+        "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
@@ -1491,8 +1491,8 @@
         ]
     },
     {
-        "id": "lilmonsta_gah4",
-        "name": "Lil' Monsta (Ancient)",
+        "id": "lilmonsta_gah_20240627",
+        "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
@@ -1554,8 +1554,8 @@
         ]
     },
     {
-        "id": "lilmonsta_gah5",
-        "name": "Lil' Monsta (Original)",
+        "id": "lilmonsta_gah_20231212",
+        "name": "Lil' Monsta",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/lilmonsta_e-cdABFMUI.webp",
@@ -1668,8 +1668,8 @@
         ]
     },
     {
-        "id": "lleech_gah",
-        "name": "Lleech (Classic)",
+        "id": "lleech_gah_20240726",
+        "name": "Lleech",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/lleech_e-DzN_r6Yd.webp",
@@ -1699,8 +1699,8 @@
         ]
     },
     {
-        "id": "alhadikhia_gah",
-        "name": "Al-Hadikhia (Classic)",
+        "id": "alhadikhia_gah_20241206",
+        "name": "Al-Hadikhia",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/alhadikhia_e-D6XyyVmp.webp",
@@ -1793,8 +1793,8 @@
         ]
     },
     {
-        "id": "riot_gah2",
-        "name": "Riot (Classic)",
+        "id": "riot_gah_20241106",
+        "name": "Riot",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/riot_e-DKD9x_C8.webp",
@@ -2079,8 +2079,8 @@
         ]
     },
     {
-        "id": "gangster_gah",
-        "name": "Gangster (Classic)",
+        "id": "gangster_gah_20230422",
+        "name": "Gangster",
         "edition": "carousel",
         "image": [
             "https://botc.app/assets/gangster-B_sTmUJn.webp",
@@ -2093,8 +2093,8 @@
         "flavor": "I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."
     },
     {
-        "id": "gardener_gah",
-        "name": "Gardener (Classic)",
+        "id": "gardener_gah_20240725",
+        "name": "Gardener",
         "edition": "fabled",
         "image": [
             "https://wiki.bloodontheclocktower.com/images/archive/5/5c/20251103095407%21Icon_gardener.png"
@@ -2112,8 +2112,8 @@
         ]
     },
     {
-        "id": "bootlegger_gah",
-        "name": "Bootlegger (Classic)",
+        "id": "bootlegger_gah_20251103",
+        "name": "Bootlegger",
         "edition": "fabled",
         "image": [
             "https://wiki.bloodontheclocktower.com/images/archive/0/08/20251103095152%21Icon_bootlegger.png"
@@ -2124,8 +2124,8 @@
         "flavor": "I've got the latest shipment from home, a brew I'd like to call 'Barrowfog'. Wanna try?"
     },
     {
-        "id": "stormcatcher_gah",
-        "name": "Storm Catcher (Classic)",
+        "id": "stormcatcher_gah_20251103",
+        "name": "Storm Catcher",
         "edition": "fabled",
         "image": [
             "https://wiki.bloodontheclocktower.com/images/archive/0/08/20251103095433%21Icon_stormcatcher.png"
